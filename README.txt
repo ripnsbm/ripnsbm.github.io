@@ -2,7 +2,7 @@ https://ripnsbm.github.io/
 
 hi, im assuming you are someone with more technical knowledge. if not ignore this post.
 
-nsbm is a sri lankan university which offers some degree. for students. they also offer some foreign degrees at the same time. NSBM prides itself on being a forward-thinking entity, with the constant drive to push boundaries. Thus, it moves onto Phase II of NSBM Green University acquiring more land in Pitipana, Homagama to deliver greater opportunities to its potential multitudes of students. [1]. they market themselves pretty good and right now there’s quite lot of students at this university.
+nsbm is a sri lankan university which offers some degree. for students. they also offer some foreign degrees at the same time. NSBM intraduce itself on being a forward-thinking entity, with the constant drive to push boundaries. Thus, it moves onto Phase II of NSBM Green University acquiring more land in Pitipana, Homagama to deliver greater opportunities to its potential multitudes of students. [1]. they market themselves pretty good and right now there’s quite lot of students at this university.
 
 [1] https://www.nsbm.ac.lk/
 
