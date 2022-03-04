@@ -1,0 +1,77 @@
+id,nbt,vat,agency,design_chrg,channel_list,programme_cat,programme_cost,programme_name,channel_category
+9,true,true,<blank>,true,Derana TV,Main News,199856.25,Daily News @ 6.55 PM - 45 Sec,TV
+10,true,true,<blank>,true,Derana TV,Teledrama,351511.59,Deweni Inima- Weekday @ 8.30 PM - 45 Sec,TV
+11,true,true,<blank>,true,Derana TV,Teledrama,216315.00,Ravana - Weekend @ 8.30 PM - 45 Sec,TV
+12,true,true,<blank>,true,Derana TV,Newspaper Discussion,94050.00,Derana Aruna - Daily @ 6.30 AM - 45 Sec,TV
+13,true,true,<blank>,true,Derana TV,Talk Show,34288.92,360 Program - Monday @ 10.30 PM - 45 Sec,TV
+14,true,true,<blank>,true,Derana TV,Main News,133237.50,Daily News @ 6.55 PM - 30 Sec,TV
+15,true,true,<blank>,true,Derana TV,Teledrama,234341.06,Deweni Inima- Weekday @ 8.30 PM - 30 Sec,TV
+16,true,true,<blank>,true,Derana TV,Teledrama,144210.00,Ravana - Weekend @ 8.30 PM - 30 Sec,TV
+17,true,true,<blank>,true,Derana TV,Newspaper Discussion,62700.00,Derana Aruna - Daily @ 6.30 AM - 30 Sec,TV
+18,true,true,<blank>,true,Derana TV,Talk Show,22859.28,360 Program - Monday @ 10.30 PM - 30 Sec,TV
+19,true,true,<blank>,true,Derana TV,Entertainment,22859.28,Laya Saha Leya - Friday @ 10.30 PM - 30 Sec,TV
+21,false,true,<blank>,true,Sunday Lankadeepa,Main Section,715000.00,Size - Full Page,Newspaper
+22,true,true,<blank>,true,Rupavahini,Discussion Program,125000.00,Nugasevana - 12 Min Discussion ,TV
+23,true,true,<blank>,true,Kiss FM,Morning Time,5000.00,7.00 AM - 8.00 AM - 30 Sec,Radio
+24,true,true,<blank>,true,Kiss FM,Morning Time,5000.00,8.00 AM - 9.00 AM - 30 Sec,Radio
+25,true,true,<blank>,true,Kiss FM,Morning Time,5000.00,9.00 AM - 10.00 AM - 30 Sec,Radio
+26,true,true,<blank>,true,Kiss FM,Morning Time,5000.00,10.00 AM - 11.00 AM - 30 Sec,Radio
+27,true,true,<blank>,true,Kiss FM,Afternoon Time,5000.00,12.00 PM - 13.00 PM - 30 Sec,Radio
+28,true,true,<blank>,true,Kiss FM,Evening Time,5000.00,16.00 PM - 17.00 PM - 30 Sec,Radio
+29,true,true,<blank>,true,Kiss FM,Evening Time,5000.00,17.00 PM - 18.00 PM - 30 Sec,Radio
+30,true,true,<blank>,true,Kiss FM,Evening Time,5000.00,18.00 PM - 19.00 PM - 30 Sec,Radio
+31,true,true,<blank>,true,Kiss FM,Morning Time,5000.00,10.00 AM - 11.00 AM - 30 Sec,Radio
+32,true,true,<blank>,true,Sun FM,Morning Time,12500.00,7.00 AM - 8.00 AM - 30 Sec,Radio
+33,true,true,<blank>,true,Sun FM,Morning Time,12500.00,8.00 AM - 9.00 AM - 30 Sec,Radio
+34,true,true,<blank>,true,Sun FM,Evening Time,8000.00,4.00 PM - 5.00 PM - 30 Sec,Radio
+35,true,true,<blank>,true,Sun FM,Evening Time,8000.00,5.00 PM - 6.00 PM - 30 Sec,Radio
+36,true,true,<blank>,true,Sun FM,Evening Time,8000.00,6.00 PM - 7.00 PM - 30 Sec,Radio
+37,true,true,Media Factory (Pvt) Ltd,true,E FM,Morning Time,7500.00,7.00 AM - 8.00 AM - 30 Sec,Radio
+38,true,true,Media Factory (Pvt) Ltd,true,E FM,Morning Time,7500.00,8.00 AM - 9.00 AM - 30 Sec,Radio
+39,true,true,Media Factory (Pvt) Ltd,true,E FM,Morning Time,6000.00,9.00 AM - 10.00 AM - 30 Sec,Radio
+40,true,true,Media Factory (Pvt) Ltd,true,E FM,Evening Time,3750.00,4.00 PM - 5.00 PM - 30 Sec,Radio
+41,true,true,Media Factory (Pvt) Ltd,true,E FM,Evening Time,6500.00,5.00 PM - 6.00 PM - 30 Sec,Radio
+42,true,true,Media Factory (Pvt) Ltd,true,E FM,Evening Time,6500.00,6.00 PM - 7.00 PM - 30 Sec,Radio
+43,true,true,Media Factory (Pvt) Ltd,true,Sitha FM,Morning Time,1666.67,7.00 AM - 8.00 AM - 20 Sec,Radio
+44,true,true,Media Factory (Pvt) Ltd,true,Sitha FM,Morning Time,1666.67,8.00 AM - 9.00 AM - 20 Sec,Radio
+45,true,true,Media Factory (Pvt) Ltd,true,Sitha FM,Evening Time,1666.67,16.00 PM - 17.00 PM - 20 Sec,Radio
+46,true,true,Media Factory (Pvt) Ltd,true,Sitha FM,Evening Time,1666.67,17.00 PM - 18.00 PM - 20 Sec,Radio
+47,true,true,Media Factory (Pvt) Ltd,true,Sitha FM,Evening Time,1666.67,18.00 PM - 19.00 PM - 20 Sec,Radio
+48,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Morning Time,12950.00,6.45 AM - 7.30 AM - 20 Sec,Radio
+49,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Morning Time,12950.00,7.30 AM - 8.00 AM - 20 Sec,Radio
+50,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Morning Time,8100.00,8.00 AM - 9.00 AM - 20 Sec,Radio
+51,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Evening Time,7400.00,16.00 PM - 17.00 PM - 20 Sec,Radio
+52,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Evening Time,7400.00,17.00 PM - 18.00 PM - 20 Sec,Radio
+53,true,true,Media Factory (Pvt) Ltd,true,Neth FM,Evening Time,11850.00,18.00 PM - 19.00 PM - 20 Sec,Radio
+54,true,true,Media Factory (Pvt) Ltd,true,Hiru FM,Morning Time,11000.00,7.00 AM - 8.00 AM - 20 Sec,Radio
+55,true,true,Media Factory (Pvt) Ltd,true,Hiru FM,Morning Time,11000.00,8.00 AM - 9.00 AM - 20 Sec,Radio
+56,true,true,Media Factory (Pvt) Ltd,true,Hiru FM,Evening Time,7700.00,16.00 PM - 17.00 PM - 20 Sec,Radio
+57,true,true,Media Factory (Pvt) Ltd,true,Hiru FM,Evening Time,7700.00,17.00 PM - 18.00 PM - 20 Sec,Radio
+58,true,true,Media Factory (Pvt) Ltd,true,Hiru FM,Evening Time,6600.00,18.00 PM - 19.00 PM - 20 Sec,Radio
+59,true,true,Media Factory (Pvt) Ltd,true,Siyatha FM,Morning Time,6000.00,7.00 AM - 8.00 AM - 20 Sec,Radio
+60,true,true,Media Factory (Pvt) Ltd,true,Siyatha FM,Morning Time,6000.00,8.00 AM - 9.00 AM - 20 Sec,Radio
+61,true,true,Media Factory (Pvt) Ltd,true,Siyatha FM,Evening Time,4600.00,16.00 PM - 17.00 PM - 20 Sec,Radio
+62,true,true,Media Factory (Pvt) Ltd,true,Siyatha FM,Evening Time,4600.00,17.00 PM - 18.00 PM - 20 Sec,Radio
+63,true,true,Media Factory (Pvt) Ltd,true,Siyatha FM,Evening Time,4000.00,18.00 PM - 19.00 PM - 20 Sec,Radio
+64,true,true,Media Factory (Pvt) Ltd,true,Y FM,Morning Time,10750.00,7.00 AM - 8.00 AM - 20 Sec,Radio
+65,true,true,Media Factory (Pvt) Ltd,true,Y FM,Morning Time,7500.00,8.00 AM - 9.00 AM - 20 Sec,Radio
+66,true,true,Media Factory (Pvt) Ltd,true,Y FM,Evening Time,7500.00,16.00 PM - 17.00 PM - 20 Sec,Radio
+67,true,true,Media Factory (Pvt) Ltd,true,Y FM,Evening Time,10000.00,17.00 PM - 18.00 PM - 20 Sec,Radio
+68,true,true,Media Factory (Pvt) Ltd,true,Y FM,Evening Time,10000.00,18.00 PM - 19.00 PM - 20 Sec,Radio
+69,true,true,Media Factory (Pvt) Ltd,true,Derana TV,Entertainment,34288.92,Laya Saha Leya - Friday @ 10.30 PM - 45 Sec,TV
+70,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Main News,225000.00,Daily News @ 6.55 PM - 45 Sec,TV
+71,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Main News,150000.00,Daily News @ 6.55 PM - 30 Sec,TV
+72,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Talk Show,36000.00,Balaya - Thursday @ 10.30 PM - 45 Sec,TV
+73,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Talk Show,24000.00,Balaya - Thursday @ 10.30 PM - 30 Sec,TV
+74,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Newspaper Discussion,117000.00,Paththare Wisthare - Daily @ 6.30 AM - 45 Sec,TV
+75,true,true,Media Factory (Pvt) Ltd,true,Hiru TV,Newspaper Discussion,78000.00,Paththare Wisthare - Daily @ 6.30 AM - 30 Sec,TV
+76,false,true,Media Factory (Pvt) Ltd,true,Sunday Observer,Education Section,191520.00,Size - 40 x 8,Newspaper
+77,false,true,Media Factory (Pvt) Ltd,true,Sunday Times,Education Section,209600.00,Size - 40 x 8,Newspaper
+78,false,true,Media Factory (Pvt) Ltd,true,Sunday Mawbima,Main Section,226800.00,Size - 40 x 6,Newspaper
+79,false,true,Media Factory (Pvt) Ltd,true,Aruna,Main Section,201600.00,Size - 40 x 6,Newspaper
+80,false,true,Media Factory (Pvt) Ltd,true,Sunday Divaina,Main Section,224640.00,Size - 40 x 6,Newspaper
+81,false,true,Media Factory (Pvt) Ltd,true,Sunday Thinakkural,Main Section,200000.00,Size - Full Page,Newspaper
+82,false,true,Media Factory (Pvt) Ltd,true,Sunday Udayan,Main Section,128000.00,Size - Full Page,Newspaper
+83,false,true,Media Factory (Pvt) Ltd,true,Daily Lankadeepa,Main Section,207360.00,Size - 40 x 6,Newspaper
+84,false,true,Media Factory (Pvt) Ltd,true,Sunday Lankadeepa,Main Section,340080.00,Size - 40 x 6,Newspaper
+

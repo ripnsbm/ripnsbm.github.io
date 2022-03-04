@@ -1,0 +1,900 @@
+id,user_id,paid_amt,degree_id,intake_id,no_of_paid,non_paid_amt,no_of_nonpaid,myear,degree,intake,faculty,semester,no_of_std,offered_by,start_date,semester_fee,deadline_year,deadline_date,deadline_month,total_cash_flow
+5859,21,0,24,19,0,6000000,20,Year 01,BSc(Honours) Computer Networks,2020.1,Faculty Of Computing,Semester 02,20,Plymouth University,2020-08-17,300000,2020,2020-08-03,8,6000000
+5860,21,1140000,25,19,3,6960000,24,Year 01,BSc(Honours) Computer Security,2020.1,Faculty Of Computing,Semester 02,27,Plymouth University,2020-08-17,300000,2020,2020-08-03,8,8100000
+5861,21,4800000,23,19,16,51900000,173,Year 01,BSc(Honours) Software Engineering,2020.1,Faculty Of Computing,Semester 02,189,Plymouth University,2020-08-17,300000,2020,2020-08-03,8,56700000
+5862,21,450000,21,19,2,6975000,31,Year 01,BSc(Hons) Management Information System,2020.1,Faculty Of Computing,Semester 02,33,University College Dublin,2020-08-17,225000,2020,2020-08-03,8,7425000
+5863,21,0,18,19,0,1600000,8,Year 01,BSc(Honours) in Computer Science,2020.1,Faculty Of Computing,Semester 02,8,NSBM,2020-08-17,200000,2020,2020-08-03,8,1600000
+5864,21,400000,17,19,2,4000000,20,Year 01,BSc(Honours) in Software Engineering,2020.1,Faculty Of Computing,Semester 02,22,NSBM,2020-08-17,200000,2020,2020-08-03,8,4400000
+5865,21,625000,16,19,3,11175000,56,Year 01,BSc in Management Information Systems (Special),2020.1,Faculty Of Computing,Semester 02,59,NSBM,2020-08-17,200000,2020,2020-08-03,8,11800000
+5866,21,25000,22,19,0,6575000,24,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.1,Faculty Of Computing,Semester 02,24,Victoria University,2020-08-17,275000,2020,2020-08-03,8,6600000
+5867,21,0,19,19,0,400000,2,Year 01,BSc(Honours) in Computer Networks,2020.1,Faculty Of Computing,Semester 02,2,NSBM,2020-08-17,200000,2020,2020-08-03,8,400000
+5868,21,1000000,23,10,4,38500000,154,Year 03,BSc(Honours) Software Engineering,2018.1,Faculty Of Computing,Semester 01,158,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,39500000
+5869,21,250000,24,10,1,5750000,23,Year 03,BSc(Honours) Computer Networks,2018.1,Faculty Of Computing,Semester 01,24,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,6000000
+5870,21,750000,25,1,3,10000000,40,Year 03,BSc(Honours) Computer Security,2018.2,Faculty Of Computing,Semester 01,43,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,10750000
+5871,21,0,24,1,0,6750000,27,Year 03,BSc(Honours) Computer Networks,2018.2,Faculty Of Computing,Semester 01,27,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,6750000
+5872,21,250000,25,10,1,9000000,36,Year 03,BSc(Honours) Computer Security,2018.1,Faculty Of Computing,Semester 01,37,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,9250000
+5873,21,1750000,23,1,7,40500000,162,Year 03,BSc(Honours) Software Engineering,2018.2,Faculty Of Computing,Semester 01,169,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,42250000
+5874,21,500000,25,12,2,8000000,32,Year 02,BSc(Honours) Computer Security,2019.1,Faculty Of Computing,Semester 01,34,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,8500000
+5875,21,250000,24,12,1,6500000,26,Year 02,BSc(Honours) Computer Networks,2019.1,Faculty Of Computing,Semester 01,27,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,6750000
+5876,21,2257500,23,12,9,39242500,157,Year 02,BSc(Honours) Software Engineering,2019.1,Faculty Of Computing,Semester 01,166,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,41500000
+5877,21,0,25,16,0,7250000,29,Year 02,BSc(Honours) Computer Security,2019.2,Faculty Of Computing,Semester 01,29,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,7250000
+5878,21,0,24,16,0,7500000,30,Year 02,BSc(Honours) Computer Networks,2019.2,Faculty Of Computing,Semester 01,30,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,7500000
+5879,21,270000,23,16,1,30730000,123,Year 02,BSc(Honours) Software Engineering,2019.2,Faculty Of Computing,Semester 01,124,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,31000000
+5880,21,500000,20,19,2,2750000,11,Year 01,BSc in Multimedia,2020.1,Faculty Of Computing,Semester 02,13,NSBM,2020-08-24,250000,2020,2020-08-10,8,3250000
+5881,21,500000,20,12,2,1500000,6,Year 02,BSc in Multimedia,2019.1,Faculty Of Computing,Semester 02,8,NSBM,2020-09-01,250000,2020,2020-08-18,8,2000000
+5882,21,0,20,1,0,800000,4,Year 03,BSc in Multimedia,2018.2,Faculty Of Computing,Semester 01,4,NSBM,2020-09-01,200000,2020,2020-08-18,8,800000
+5883,21,0,20,10,0,6000000,30,Year 03,BSc in Multimedia,2018.1,Faculty Of Computing,Semester 02,30,NSBM,2020-09-01,200000,2020,2020-08-18,8,6000000
+5884,21,250000,12,1,1,6000000,24,Year 03,BSc(Honours) Marketing Management,2018.2,Faculty Of Business,Semester 01,25,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,6250000
+5885,21,750000,13,1,3,10500000,42,Year 03,BSc(Honours) Operations and Logistics Management,2018.2,Faculty Of Business,Semester 01,45,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,11250000
+5886,21,4187500,11,1,15,11062500,46,Year 03,BSc(Honours) Accounting and Finance,2018.2,Faculty Of Business,Semester 01,61,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,15250000
+5887,21,4750000,10,1,19,29000000,116,Year 03,BSc(Honours) International Management  and Business,2018.2,Faculty Of Business,Semester 01,135,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,33750000
+5888,21,2250000,14,1,9,22750000,91,Year 03,"BSc(Honours) Events, Tourism and Hospitality Management",2018.2,Faculty Of Business,Semester 01,100,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,25000000
+5889,21,0,15,1,0,500000,2,Year 03,BSc(Honours) Business Communication,2018.2,Faculty Of Business,Semester 01,2,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,500000
+5890,21,3000000,10,12,12,28000000,112,Year 02,BSc(Honours) International Management  and Business,2019.1,Faculty Of Business,Semester 01,124,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,31000000
+5891,21,1500000,11,12,6,9500000,38,Year 02,BSc(Honours) Accounting and Finance,2019.1,Faculty Of Business,Semester 01,44,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,11000000
+5892,21,0,15,16,0,500000,2,Year 02,BSc(Honours) Business Communication,2019.2,Faculty Of Business,Semester 01,2,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,500000
+5893,21,1750000,11,16,7,8000000,32,Year 02,BSc(Honours) Accounting and Finance,2019.2,Faculty Of Business,Semester 01,39,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,9750000
+5894,21,4000000,10,16,16,30250000,121,Year 02,BSc(Honours) International Management  and Business,2019.2,Faculty Of Business,Semester 01,137,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,34250000
+5895,21,250000,15,12,1,500000,2,Year 02,BSc(Honours) Business Communication,2019.1,Faculty Of Business,Semester 01,3,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,750000
+5896,21,3000000,13,12,12,11750000,47,Year 02,BSc(Honours) Operations and Logistics Management,2019.1,Faculty Of Business,Semester 01,59,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,14750000
+5897,21,500000,12,16,2,4500000,18,Year 02,BSc(Honours) Marketing Management,2019.2,Faculty Of Business,Semester 01,20,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,5000000
+5898,21,1100000,13,16,4,10150000,41,Year 02,BSc(Honours) Operations and Logistics Management,2019.2,Faculty Of Business,Semester 01,45,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,11250000
+5899,21,500000,12,12,2,2250000,9,Year 02,BSc(Honours) Marketing Management,2019.1,Faculty Of Business,Semester 01,11,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,2750000
+5900,21,1750000,14,16,7,17750000,71,Year 02,"BSc(Honours) Events, Tourism and Hospitality Management",2019.2,Faculty Of Business,Semester 01,78,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,19500000
+5901,21,750000,15,10,2,500000,3,Year 03,BSc(Honours) Business Communication,2018.1,Faculty Of Business,Semester 01,5,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,1250000
+5902,21,1500000,14,10,6,18500000,74,Year 03,"BSc(Honours) Events, Tourism and Hospitality Management",2018.1,Faculty Of Business,Semester 01,80,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,20000000
+5903,21,1685834,14,12,6,15814166,64,Year 02,"BSc(Honours) Events, Tourism and Hospitality Management",2019.1,Faculty Of Business,Semester 01,70,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,17500000
+5904,21,4750000,10,10,19,14500000,58,Year 03,BSc(Honours) International Management  and Business,2018.1,Faculty Of Business,Semester 01,77,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,19250000
+5905,21,1500000,11,10,6,7250000,29,Year 03,BSc(Honours) Accounting and Finance,2018.1,Faculty Of Business,Semester 01,35,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,8750000
+5906,21,750000,12,10,3,5750000,23,Year 03,BSc(Honours) Marketing Management,2018.1,Faculty Of Business,Semester 01,26,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,6500000
+5907,21,1750000,13,10,7,10250000,41,Year 03,BSc(Honours) Operations and Logistics Management,2018.1,Faculty Of Business,Semester 01,48,Plymouth University,2020-08-10,250000,2020,2020-07-27,7,12000000
+5908,21,2500000,1,19,12,45700000,229,Year 01,BSc in Business Management(Special),2020.1,Faculty Of Business,Semester 02,241,NSBM,2020-08-24,200000,2020,2020-08-10,8,48200000
+5909,21,225000,7,19,1,6975000,31,Year 01,BSc(Hons) Management,2020.1,Faculty Of Business,Semester 02,32,University College Dublin,2020-08-24,225000,2020,2020-08-10,8,7200000
+5910,21,275000,9,19,1,4950000,18,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2020.1,Faculty Of Business,Semester 02,19,Victoria University,2020-08-24,275000,2020,2020-08-10,8,5225000
+5911,21,5000,8,19,0,2020000,9,Year 01,BSc(Hons) Human Resource Management,2020.1,Faculty Of Business,Semester 02,9,University College Dublin,2020-08-24,225000,2020,2020-08-10,8,2025000
+5912,21,0,9,12,0,6875000,25,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.1,Faculty Of Business,Semester 02,25,Victoria University,2020-09-06,275000,2020,2020-08-23,8,6875000
+5913,21,275000,9,10,1,7975000,29,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.1,Faculty Of Business,Semester 02,30,Victoria University,2020-09-06,275000,2020,2020-08-23,8,8250000
+5914,21,0,53,12,0,0,2,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 02,2,NSBM,2020-08-24,0,2020,2020-08-10,8,0
+5915,21,0,54,12,0,0,6,Year 02,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2020-08-24,0,2020,2020-08-10,8,0
+5916,21,1200000,26,12,4,1800000,6,Year 02,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 02,10,NSBM,2020-08-24,300000,2020,2020-08-10,8,3000000
+5917,21,0,34,19,0,6250000,25,Year 01,Bachelor of Interior Design,2020.1,Faculty Of Engineering,Semester 02,25,NSBM,2020-09-03,250000,2020,2020-08-20,8,6250000
+5918,21,0,26,19,0,4800000,16,Year 01,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,16,NSBM,2020-09-07,300000,2020,2020-08-24,8,4800000
+5919,21,300000,54,19,1,6000000,20,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2020-09-07,300000,2020,2020-08-24,8,6300000
+5920,21,0,53,19,0,5400000,18,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,18,NSBM,2020-09-07,300000,2020,2020-08-24,8,5400000
+6833,73,0,19,19,0,400000,2,Year 01,BSc(Honours) in Computer Networks,2020.1,Faculty Of Computing,Semester 02,2,NSBM,2020-08-18,200000,2020,2020-08-04,8,400000
+6834,73,1840000,25,19,5,6260000,22,Year 01,BSc(Honours) Computer Security,2020.1,Faculty Of Computing,Semester 02,27,Plymouth University,2020-08-18,300000,2020,2020-08-04,8,8100000
+6835,73,300000,24,19,1,5700000,19,Year 01,BSc(Honours) Computer Networks,2020.1,Faculty Of Computing,Semester 02,20,Plymouth University,2020-08-18,300000,2020,2020-08-04,8,6000000
+6836,73,13800000,23,19,46,42900000,143,Year 01,BSc(Honours) Software Engineering,2020.1,Faculty Of Computing,Semester 02,189,Plymouth University,2020-08-18,300000,2020,2020-08-04,8,56700000
+6837,73,2925000,21,19,13,4500000,20,Year 01,BSc(Hons) Management Information System,2020.1,Faculty Of Computing,Semester 02,33,University College Dublin,2020-08-18,225000,2020,2020-08-04,8,7425000
+6838,73,1000000,18,19,5,600000,3,Year 01,BSc(Honours) in Computer Science,2020.1,Faculty Of Computing,Semester 02,8,NSBM,2020-08-18,200000,2020,2020-08-04,8,1600000
+6839,73,1200000,17,19,6,3200000,16,Year 01,BSc(Honours) in Software Engineering,2020.1,Faculty Of Computing,Semester 02,22,NSBM,2020-08-18,200000,2020,2020-08-04,8,4400000
+6840,73,2625000,16,19,13,9175000,46,Year 01,BSc in Management Information Systems (Special),2020.1,Faculty Of Computing,Semester 02,59,NSBM,2020-08-18,200000,2020,2020-08-04,8,11800000
+6841,73,1125000,22,19,4,5475000,20,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.1,Faculty Of Computing,Semester 02,24,Victoria University,2020-08-18,275000,2020,2020-08-04,8,6600000
+6842,73,3000000,23,1,12,37750000,151,Year 03,BSc(Honours) Software Engineering,2018.2,Faculty Of Computing,Semester 01,163,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,40750000
+6843,73,1750000,23,10,7,19250000,77,Year 03,BSc(Honours) Software Engineering,2018.1,Faculty Of Computing,Semester 01,84,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,21000000
+6844,73,0,24,10,0,2750000,11,Year 03,BSc(Honours) Computer Networks,2018.1,Faculty Of Computing,Semester 01,11,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,2750000
+6845,73,1000000,25,10,4,5500000,22,Year 03,BSc(Honours) Computer Security,2018.1,Faculty Of Computing,Semester 01,26,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,6500000
+6846,73,750000,25,1,3,9750000,39,Year 03,BSc(Honours) Computer Security,2018.2,Faculty Of Computing,Semester 01,42,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,10500000
+6847,73,0,24,1,0,6750000,27,Year 03,BSc(Honours) Computer Networks,2018.2,Faculty Of Computing,Semester 01,27,Plymouth University,2020-08-22,250000,2020,2020-08-08,8,6750000
+6848,73,1250000,25,12,5,7250000,29,Year 02,BSc(Honours) Computer Security,2019.1,Faculty Of Computing,Semester 01,34,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,8500000
+6849,73,750000,24,12,3,6000000,24,Year 02,BSc(Honours) Computer Networks,2019.1,Faculty Of Computing,Semester 01,27,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,6750000
+6850,73,6257500,23,12,25,35242500,141,Year 02,BSc(Honours) Software Engineering,2019.1,Faculty Of Computing,Semester 01,166,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,41500000
+6851,73,0,25,16,0,7250000,29,Year 02,BSc(Honours) Computer Security,2019.2,Faculty Of Computing,Semester 01,29,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,7250000
+6852,73,0,24,16,0,7500000,30,Year 02,BSc(Honours) Computer Networks,2019.2,Faculty Of Computing,Semester 01,30,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,7500000
+6853,73,2770000,23,16,11,28230000,113,Year 02,BSc(Honours) Software Engineering,2019.2,Faculty Of Computing,Semester 01,124,Plymouth University,2020-08-24,250000,2020,2020-08-10,8,31000000
+6854,73,500000,20,19,2,2750000,11,Year 01,BSc in Multimedia,2020.1,Faculty Of Computing,Semester 02,13,NSBM,2020-08-24,250000,2020,2020-08-10,8,3250000
+6855,73,0,20,10,0,1600000,8,Year 03,BSc in Multimedia,2018.1,Faculty Of Computing,Semester 02,8,NSBM,2020-09-01,200000,2020,2020-08-18,8,1600000
+6856,73,0,20,1,0,800000,4,Year 03,BSc in Multimedia,2018.2,Faculty Of Computing,Semester 01,4,NSBM,2020-09-01,200000,2020,2020-08-18,8,800000
+6857,73,500000,20,12,2,1500000,6,Year 02,BSc in Multimedia,2019.1,Faculty Of Computing,Semester 02,8,NSBM,2020-09-01,250000,2020,2020-08-18,8,2000000
+6858,73,2000000,5,19,10,7800000,39,Year 01,BM(Honours) in Accounting and Finance,2020.1,Faculty Of Business,Semester 02,49,NSBM,2020-08-18,200000,2020,2020-08-04,8,9800000
+6859,73,9350000,1,19,46,38850000,195,Year 01,BSc in Business Management(Special),2020.1,Faculty Of Business,Semester 02,241,NSBM,2020-08-18,200000,2020,2020-08-04,8,48200000
+6860,73,680000,8,19,3,1345000,6,Year 01,BSc(Hons) Human Resource Management,2020.1,Faculty Of Business,Semester 02,9,University College Dublin,2020-08-18,225000,2020,2020-08-04,8,2025000
+6861,73,1125000,7,19,5,6075000,27,Year 01,BSc(Hons) Management,2020.1,Faculty Of Business,Semester 02,32,University College Dublin,2020-08-18,225000,2020,2020-08-04,8,7200000
+6862,73,1375000,9,19,5,3850000,14,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2020.1,Faculty Of Business,Semester 02,19,Victoria University,2020-08-18,275000,2020,2020-08-04,8,5225000
+6863,73,0,15,19,0,1500000,5,Year 01,BSc(Honours) Business Communication,2020.1,Faculty Of Business,Semester 02,5,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,1500000
+6864,73,2100000,10,19,7,39300000,131,Year 01,BSc(Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 02,138,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,41400000
+6865,73,600000,11,19,2,9600000,32,Year 01,BSc(Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 02,34,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,10200000
+6866,73,243456,12,19,0,7256544,25,Year 01,BSc(Honours) Marketing Management,2020.1,Faculty Of Business,Semester 02,25,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,7500000
+6867,73,600000,13,19,2,14700000,49,Year 01,BSc(Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 02,51,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,15300000
+6868,73,1700000,14,19,5,22600000,76,Year 01,"BSc(Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 02,81,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,24300000
+6869,73,0,9,12,0,6325000,23,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.1,Faculty Of Business,Semester 02,23,Victoria University,2020-09-06,275000,2020,2020-08-23,8,6325000
+6870,73,275000,9,10,1,6875000,25,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.1,Faculty Of Business,Semester 02,26,Victoria University,2020-09-06,275000,2020,2020-08-23,8,7150000
+6871,73,450000,52,19,2,4500000,20,Year 01,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,22,NSBM,2020-09-17,225000,2020,2020-09-03,9,4950000
+6872,73,0,54,12,0,0,6,Year 02,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2020-08-24,0,2020,2020-08-10,8,0
+6873,73,0,53,12,0,0,2,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 02,2,NSBM,2020-08-24,0,2020,2020-08-10,8,0
+6874,73,1200000,26,12,4,1800000,6,Year 02,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 02,10,NSBM,2020-08-24,300000,2020,2020-08-10,8,3000000
+6875,73,300000,54,19,1,6000000,20,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2020-08-31,300000,2020,2020-08-17,8,6300000
+6876,73,600000,26,19,2,4200000,14,Year 01,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,16,NSBM,2020-08-31,300000,2020,2020-08-17,8,4800000
+6877,73,0,53,19,0,5400000,18,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,18,NSBM,2020-08-31,300000,2020,2020-08-17,8,5400000
+6878,73,250000,34,19,1,6000000,24,Year 01,Bachelor of Interior Design,2020.1,Faculty Of Engineering,Semester 02,25,NSBM,2020-09-03,250000,2020,2020-08-20,8,6250000
+7610,11,2943456,12,19,9,4556544,16,Year 01,BSc(Honours) Marketing Management,2020.1,Faculty Of Business,Semester 02,25,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,7500000
+7611,11,600000,15,19,2,900000,3,Year 01,BSc(Honours) Business Communication,2020.1,Faculty Of Business,Semester 02,5,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,1500000
+7612,11,2900000,14,19,9,21400000,72,Year 01,"BSc(Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 02,81,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,24300000
+7613,11,3280000,13,19,10,12320000,42,Year 01,BSc(Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 02,52,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,15600000
+7614,11,9600000,10,19,31,31800000,107,Year 01,BSc(Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 02,138,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,41400000
+7615,11,1800000,11,19,6,8400000,28,Year 01,BSc(Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 02,34,Plymouth University,2020-08-31,300000,2020,2020-08-17,8,10200000
+7616,11,2250000,52,19,10,2700000,12,Year 01,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,22,NSBM,2020-09-17,225000,2020,2020-09-03,9,4950000
+7617,11,125000,28,1,1,5250000,42,Year 02,Master of Business Administration,2018.2,Faculty Of Business,Semester 02,43,NSBM,2020-09-19,125000,2020,2020-09-05,9,5375000
+7618,11,600000,54,19,2,5700000,19,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2020-08-31,300000,2020,2020-08-17,8,6300000
+7619,11,900000,53,19,3,4500000,15,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,18,NSBM,2020-08-31,300000,2020,2020-08-17,8,5400000
+7620,11,1200000,26,19,4,3600000,12,Year 01,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,16,NSBM,2020-08-31,300000,2020,2020-08-17,8,4800000
+7621,11,750000,34,19,3,5500000,22,Year 01,Bachelor of Interior Design,2020.1,Faculty Of Engineering,Semester 02,25,NSBM,2020-09-03,250000,2020,2020-08-20,8,6250000
+7879,47,0,16,12,0,13000000,65,Year 03,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,65,NSBM,2020-10-05,200000,2020,2020-09-21,9,13000000
+7880,47,0,18,1,0,900000,6,Year 03,BSc(Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2020-10-05,150000,2020,2020-09-21,9,900000
+7881,47,0,17,1,0,2400000,16,Year 03,BSc(Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2020-10-05,150000,2020,2020-09-21,9,2400000
+7882,47,0,16,1,0,3600000,24,Year 03,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,24,NSBM,2020-10-05,150000,2020,2020-09-21,9,3600000
+7883,47,0,19,12,0,400000,2,Year 03,BSc(Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2020-10-05,200000,2020,2020-09-21,9,400000
+7884,47,0,18,12,0,1600000,8,Year 03,BSc(Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,8,NSBM,2020-10-05,200000,2020,2020-09-21,9,1600000
+7885,47,0,17,12,0,2800000,14,Year 03,BSc(Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,14,NSBM,2020-10-05,200000,2020,2020-09-21,9,2800000
+7886,47,2250000,52,19,10,2700000,12,Year 01,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,22,NSBM,2020-09-17,225000,2020,2020-09-03,9,4950000
+7887,47,125000,28,1,1,5250000,42,Year 02,Master of Business Administration,2018.2,Faculty Of Business,Semester 02,43,NSBM,2020-09-19,125000,2020,2020-09-05,9,5375000
+7924,76,0,18,1,0,900000,6,Year 03,BSc(Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2020-10-05,150000,2020,2020-09-21,9,900000
+7925,76,0,17,1,0,2400000,16,Year 03,BSc(Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2020-10-05,150000,2020,2020-09-21,9,2400000
+7926,76,0,16,1,0,3600000,24,Year 03,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,24,NSBM,2020-10-05,150000,2020,2020-09-21,9,3600000
+7927,76,0,19,12,0,400000,2,Year 03,BSc(Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2020-10-05,200000,2020,2020-09-21,9,400000
+7928,76,0,18,12,0,1600000,8,Year 03,BSc(Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,8,NSBM,2020-10-05,200000,2020,2020-09-21,9,1600000
+7929,76,0,17,12,0,2800000,14,Year 03,BSc(Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,14,NSBM,2020-10-05,200000,2020,2020-09-21,9,2800000
+7930,76,0,16,12,0,12800000,64,Year 03,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,64,NSBM,2020-10-05,200000,2020,2020-09-21,9,12800000
+7931,76,2250000,52,19,10,2475000,11,Year 01,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,21,NSBM,2020-09-17,225000,2020,2020-09-03,9,4725000
+7932,76,125000,28,1,1,5250000,42,Year 02,Master of Business Administration,2018.2,Faculty Of Business,Semester 02,43,NSBM,2020-09-19,125000,2020,2020-09-05,9,5375000
+9110,100,150000,17,10,1,2550000,17,Year 04,BSc (Honours) in Software Engineering,2018.1,Faculty Of Computing,Semester 01,18,NSBM,2020-11-02,150000,2020,2020-10-19,10,2700000
+9111,100,0,18,10,0,1200000,8,Year 04,BSc (Honours) in Computer Science,2018.1,Faculty Of Computing,Semester 01,8,NSBM,2020-11-02,150000,2020,2020-10-19,10,1200000
+9112,100,150000,16,10,1,4800000,32,Year 04,BSc in Management Information Systems (Special),2018.1,Faculty Of Computing,Semester 01,33,NSBM,2020-11-02,150000,2020,2020-10-19,10,4950000
+9113,100,0,22,16,0,3025000,11,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.2,Faculty Of Computing,Semester 01,11,Victoria University,2020-11-02,275000,2020,2020-10-19,10,3025000
+9114,100,0,22,12,0,4950000,18,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.1,Faculty Of Computing,Semester 02,18,Victoria University,2020-11-02,275000,2020,2020-10-19,10,4950000
+9115,100,150000,17,2,1,1650000,11,Year 04,BSc (Honours) in Software Engineering,2017.2,Faculty Of Computing,Semester 01,12,NSBM,2020-11-02,150000,2020,2020-10-19,10,1800000
+9116,100,0,22,1,0,7975000,29,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2018.2,Faculty Of Computing,Semester 01,29,Victoria University,2020-11-05,275000,2020,2020-10-22,10,7975000
+9117,100,0,22,10,0,8800000,32,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2018.1,Faculty Of Computing,Semester 02,32,Victoria University,2020-11-05,275000,2020,2020-10-22,10,8800000
+9118,100,150000,16,2,1,1800000,12,Year 04,BSc in Management Information Systems (Special),2017.2,Faculty Of Computing,Semester 01,13,NSBM,2020-11-07,150000,2020,2020-10-24,10,1950000
+9119,100,220000,7,2,1,14690000,70,Year 04,BSc (Hons) Management,2017.2,Faculty Of Business,Semester 01,71,University College Dublin,2020-11-19,210000,2020,2020-11-05,11,14910000
+9120,100,0,7,10,0,15120000,72,Year 04,BSc (Hons) Management,2018.1,Faculty Of Business,Semester 01,72,University College Dublin,2020-11-19,210000,2020,2020-11-05,11,15120000
+9121,100,300000,53,10,1,2400000,8,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2018.1,Faculty Of Engineering,Semester 02,9,NSBM,2020-11-02,300000,2020,2020-10-19,10,2700000
+9122,100,0,54,10,0,600000,2,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2018.1,Faculty Of Engineering,Semester 02,2,NSBM,2020-11-02,300000,2020,2020-10-19,10,600000
+9123,100,1400000,34,12,5,4350000,18,Year 02,Bachelor of Interior Design,2019.1,Faculty Of Engineering,Semester 02,23,NSBM,2020-11-02,250000,2020,2020-07-05,7,5750000
+9124,100,0,34,16,0,3000000,12,Year 02,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 01,12,NSBM,2020-11-02,250000,2020,2020-10-19,10,3000000
+9125,100,0,34,10,0,1400000,7,Year 03,Bachelor of Interior Design,2018.1,Faculty Of Engineering,Semester 02,7,NSBM,2020-11-02,200000,2020,2020-10-19,10,1400000
+9126,100,0,26,10,0,2100000,7,Year 03,BSc Engineering (Hons) in Computer System Engineering,2018.1,Faculty Of Engineering,Semester 02,7,NSBM,2020-11-02,300000,2020,2020-10-19,10,2100000
+9127,100,0,48,12,0,2850000,38,Year 02,Bachelor of Interior Design - MOHE,2019.1,Faculty Of Engineering,Semester 02,38,NSBM,2020-11-02,75000,2020,2020-10-19,10,2850000
+9535,68,450000,16,2,3,1500000,10,Year 04,BSc in Management Information Systems (Special),2017.2,Faculty Of Computing,Semester 01,13,NSBM,2020-11-30,150000,2020,2020-11-16,11,1950000
+9536,68,0,46,10,0,750000,15,Year 04,BSc in Management Information Systems (Special) - MOHE,2018.1,Faculty Of Computing,Semester 01,15,NSBM,2020-11-30,50000,2020,2020-11-16,11,750000
+9537,68,0,46,2,0,350000,7,Year 04,BSc in Management Information Systems (Special) - MOHE,2017.2,Faculty Of Computing,Semester 01,7,NSBM,2020-11-30,50000,2020,2020-11-16,11,350000
+9538,68,300000,17,2,2,1500000,10,Year 04,BSc (Honours) in Software Engineering,2017.2,Faculty Of Computing,Semester 01,12,NSBM,2020-11-30,150000,2020,2020-11-16,11,1800000
+9539,68,0,18,10,0,1200000,8,Year 04,BSc (Honours) in Computer Science,2018.1,Faculty Of Computing,Semester 01,8,NSBM,2020-11-30,150000,2020,2020-11-16,11,1200000
+9540,68,750000,17,10,5,1950000,13,Year 04,BSc (Honours) in Software Engineering,2018.1,Faculty Of Computing,Semester 01,18,NSBM,2020-11-30,150000,2020,2020-11-16,11,2700000
+9541,68,900000,16,10,6,4050000,27,Year 04,BSc in Management Information Systems (Special),2018.1,Faculty Of Computing,Semester 01,33,NSBM,2020-11-30,150000,2020,2020-11-16,11,4950000
+9542,68,400000,16,23,2,400000,2,Year 01,BSc in Management Information Systems (Special),2020.3,Faculty Of Computing,Semester 01,4,NSBM,2020-12-07,200000,2020,2020-11-23,11,800000
+9543,68,900000,25,23,3,0,0,Year 01,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 01,3,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,900000
+9544,68,800000,17,23,4,400000,2,Year 01,BSc (Honours) in Software Engineering,2020.3,Faculty Of Computing,Semester 01,6,NSBM,2020-12-07,200000,2020,2020-11-23,11,1200000
+9545,68,300000,24,23,1,1200000,4,Year 01,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 01,5,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,1500000
+9546,68,6950000,23,23,23,5350000,18,Year 01,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 01,41,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,12300000
+9547,68,200000,18,23,1,200000,1,Year 01,BSc (Honours) in Computer Science,2020.3,Faculty Of Computing,Semester 01,2,NSBM,2020-12-07,200000,2020,2020-11-23,11,400000
+9548,68,275000,22,23,1,0,0,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.3,Faculty Of Computing,Semester 01,1,Victoria University,2020-12-07,275000,2020,2020-11-23,11,275000
+9549,68,1200000,62,23,4,0,0,Year 01,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 01,4,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,1200000
+9550,68,210000,21,12,1,9450000,45,Year 03,BSc (Hons) Management Information System,2019.1,Faculty Of Computing,Semester 01,46,University College Dublin,2020-12-09,210000,2020,2020-11-25,11,9660000
+9551,68,520000,21,1,2,5780000,28,Year 03,BSc (Hons) Management Information System,2018.2,Faculty Of Computing,Semester 01,30,University College Dublin,2020-12-09,210000,2020,2020-11-25,11,6300000
+9552,68,210000,21,2,1,8190000,39,Year 04,BSc (Hons) Management Information System,2017.2,Faculty Of Computing,Semester 01,40,University College Dublin,2020-12-14,210000,2020,2020-11-30,11,8400000
+9553,68,210000,21,10,1,7980000,38,Year 04,BSc (Hons) Management Information System,2018.1,Faculty Of Computing,Semester 01,39,University College Dublin,2020-12-14,210000,2020,2020-11-30,11,8190000
+9554,68,900000,9,1,3,3775000,14,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.2,Faculty Of Business,Semester 01,17,Victoria University,2020-11-25,275000,2020,2020-11-11,11,4675000
+9555,68,2200000,9,10,8,5775000,21,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.1,Faculty Of Business,Semester 02,29,Victoria University,2020-11-25,275000,2020,2020-11-11,11,7975000
+9556,68,2200000,9,16,8,2200000,8,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.2,Faculty Of Business,Semester 01,16,Victoria University,2020-11-25,275000,2020,2020-11-11,11,4400000
+9557,68,550000,9,12,2,6050000,22,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.1,Faculty Of Business,Semester 02,24,Victoria University,2020-11-25,275000,2020,2020-11-11,11,6600000
+9558,68,225000,52,23,1,0,0,Year 01,BM (Honours) in International Business,2020.3,Faculty Of Business,Semester 01,1,NSBM,2020-12-07,225000,2020,2020-11-23,11,225000
+9559,68,600000,15,23,2,0,0,Year 01,BSc (Honours) Business Communication,2020.3,Faculty Of Business,Semester 01,2,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,600000
+9560,68,900000,12,20,3,0,0,Year 01,BSc (Honours) Marketing Management,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,900000
+9561,68,600000,11,20,2,0,0,Year 01,BSc (Honours) Accounting and Finance,2020.2,Faculty Of Business,Semester 01,2,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,600000
+9562,68,1500000,13,20,5,0,0,Year 01,BSc (Honours) Operations and Logistics Management,2020.2,Faculty Of Business,Semester 01,5,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,1500000
+9563,68,3100000,14,20,9,200000,2,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2020.2,Faculty Of Business,Semester 01,11,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,3300000
+9564,68,600000,15,20,2,0,0,Year 01,BSc (Honours) Business Communication,2020.2,Faculty Of Business,Semester 01,2,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,600000
+9565,68,2200000,1,23,11,2600000,13,Year 01,BSc in Business Management (Special),2020.3,Faculty Of Business,Semester 01,24,NSBM,2020-12-07,200000,2020,2020-11-23,11,4800000
+9566,68,1400000,5,23,7,800000,4,Year 01,BM (Honours) in Accounting and Finance,2020.3,Faculty Of Business,Semester 01,11,NSBM,2020-12-07,200000,2020,2020-11-23,11,2200000
+9567,68,275000,9,23,1,825000,3,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2020.3,Faculty Of Business,Semester 01,4,Victoria University,2020-12-07,275000,2020,2020-11-23,11,1100000
+9568,68,7690000,10,23,25,4610000,16,Year 01,BSc (Honours) International Management  and Business,2020.3,Faculty Of Business,Semester 01,41,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,12300000
+9569,68,1800000,11,23,6,1500000,5,Year 01,BSc (Honours) Accounting and Finance,2020.3,Faculty Of Business,Semester 01,11,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,3300000
+9570,68,600000,12,23,2,600000,2,Year 01,BSc (Honours) Marketing Management,2020.3,Faculty Of Business,Semester 01,4,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,1200000
+9571,68,2100300,13,23,7,1499700,5,Year 01,BSc (Honours) Operations and Logistics Management,2020.3,Faculty Of Business,Semester 01,12,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,3600000
+9572,68,1820000,14,23,5,3280000,12,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2020.3,Faculty Of Business,Semester 01,17,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,5100000
+9573,68,7500000,10,20,25,0,0,Year 01,BSc (Honours) International Management  and Business,2020.2,Faculty Of Business,Semester 01,25,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,7500000
+9574,68,420000,8,10,2,1260000,6,Year 04,BSc (Hons) Human Resource Management,2018.1,Faculty Of Business,Semester 01,8,University College Dublin,2020-12-14,210000,2020,2020-11-30,11,1680000
+9575,68,0,56,23,0,300000,1,Year 01,BA (Hons) in Interior Design,2020.3,Faculty Of Engineering,Semester 01,1,Plymouth University,2020-12-07,300000,2020,2020-11-23,11,300000
+9576,68,0,53,23,0,600000,2,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2020.3,Faculty Of Engineering,Semester 01,2,NSBM,2020-12-07,300000,2020,2020-11-23,11,600000
+9577,68,375000,34,23,1,125000,1,Year 01,Bachelor of Interior Design,2020.3,Faculty Of Engineering,Semester 01,2,NSBM,2020-12-07,250000,2020,2020-11-23,11,500000
+9578,68,600000,26,23,2,0,0,Year 01,BSc Engineering (Hons) in Computer System Engineering,2020.3,Faculty Of Engineering,Semester 01,2,NSBM,2020-12-07,300000,2020,2020-11-23,11,600000
+11384,87,250000,20,19,1,3000000,12,Year 02,BSc in Multimedia,2020.1,Faculty Of Computing,Semester 01,13,NSBM,2021-03-01,250000,2021,2021-02-15,2,3250000
+11385,87,250000,20,12,1,1500000,6,Year 03,BSc in Multimedia,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-03-08,250000,2021,2021-02-22,2,1750000
+11386,87,0,20,1,0,600000,3,Year 03,BSc in Multimedia,2018.2,Faculty Of Computing,Semester 02,3,NSBM,2021-03-08,200000,2021,2021-02-22,2,600000
+11387,87,0,47,12,0,825000,11,Year 03,BSc in Multimedia - MOHE,2019.1,Faculty Of Computing,Semester 01,11,NSBM,2021-03-08,75000,2021,2021-02-22,2,825000
+11388,87,0,41,19,0,2875000,23,Year 01,Master of Business Studies,2020.1,Faculty Of Business,Semester 02,23,NSBM,2021-03-13,125000,2021,2021-02-27,2,2875000
+11389,87,0,51,19,0,1700000,17,Year 01,Master of Business Studies (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,17,NSBM,2021-03-13,100000,2021,2021-02-27,2,1700000
+11558,30,6350000,NULL,NULL,13,0,0,Year 02,BSc in Multimedia,2020.1,Faculty Of Computing,Semester 01,13,NSBM,2021-03-09,250000,2021,2021-02-23,2,3250000
+11559,30,7500000,NULL,NULL,7,0,0,Year 03,BSc in Multimedia,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-03-09,250000,2021,2021-02-23,2,1750000
+11560,30,200000,NULL,NULL,1,400000,2,Year 03,BSc in Multimedia,2018.2,Faculty Of Computing,Semester 02,3,NSBM,2021-03-09,200000,2021,2021-02-23,2,600000
+11561,30,2825000,NULL,NULL,6,0,0,Year 02,BSc in Multimedia,2020.2,Faculty Of Computing,Semester 01,6,NSBM,2021-03-09,250000,2021,2021-02-23,2,1500000
+11569,2,0,47,12,0,825000,11,Year 03,BSc in Multimedia - MOHE,2019.1,Faculty Of Computing,Semester 01,11,NSBM,2021-03-08,75000,2021,2021-02-22,2,825000
+11570,2,250000,20,19,1,3000000,12,Year 02,BSc in Multimedia,2020.1,Faculty Of Computing,Semester 01,13,NSBM,2021-03-09,250000,2021,2021-02-23,2,3250000
+11571,2,250000,20,12,1,1500000,6,Year 03,BSc in Multimedia,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-03-09,250000,2021,2021-02-23,2,1750000
+11572,2,400000,20,1,2,200000,1,Year 03,BSc in Multimedia,2018.2,Faculty Of Computing,Semester 02,3,NSBM,2021-03-09,200000,2021,2021-02-23,2,600000
+11573,2,0,20,20,0,1500000,6,Year 02,BSc in Multimedia,2020.2,Faculty Of Computing,Semester 01,6,NSBM,2021-03-09,250000,2021,2021-02-23,2,1500000
+11574,2,0,41,19,0,2875000,23,Year 01,Master of Business Studies (Sinhala Medium),2020.1,Faculty Of Business,Semester 02,23,NSBM,2021-03-13,125000,2021,2021-02-27,2,2875000
+11575,2,0,51,19,0,700000,7,Year 01,Master of Business Studies (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,7,NSBM,2021-03-13,100000,2021,2021-02-27,2,700000
+11576,2,43500000,1,19,215,2500000,15,Year 02,BSc in Business Management (Special),2020.1,Faculty Of Business,Semester 01,230,NSBM,2021-04-01,200000,2021,2021-03-18,3,46000000
+11577,2,0,9,19,0,4400000,16,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2020.1,Faculty Of Business,Semester 01,16,Victoria University,2021-04-01,275000,2021,2021-03-18,3,4400000
+11931,55,1045000,22,1,3,6380000,24,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2018.2,Faculty Of Computing,Semester 02,27,Victoria University,2021-04-22,275000,2021,2021-04-08,4,7425000
+11932,55,0,22,12,0,4125000,15,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.1,Faculty Of Computing,Semester 01,15,Victoria University,2021-04-22,275000,2021,2021-04-08,4,4125000
+11933,55,0,22,16,0,2475000,9,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.2,Faculty Of Computing,Semester 02,9,Victoria University,2021-04-26,275000,2021,2021-04-12,4,2475000
+11934,55,25000,22,19,0,6025000,22,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.1,Faculty Of Computing,Semester 01,22,Victoria University,2021-04-27,275000,2021,2021-04-13,4,6050000
+11935,55,0,32,19,0,900000,9,Year 01,Postgraduate Diploma in Computer Networks,2020.1,Faculty Of Computing,Semester 02,9,NSBM,2021-05-01,100000,2021,2021-04-17,4,900000
+11936,55,0,46,2,0,350000,7,Year 04,BSc in Management Information Systems (Special) - MOHE,2017.2,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,50000,2021,2021-04-19,4,350000
+11937,55,0,18,23,0,600000,3,Year 01,BSc (Honours) in Computer Science,2020.3,Faculty Of Computing,Semester 02,3,NSBM,2021-05-03,200000,2021,2021-04-19,4,600000
+11938,55,0,16,23,0,4400000,22,Year 01,BSc in Management Information Systems (Special),2020.3,Faculty Of Computing,Semester 02,22,NSBM,2021-05-03,200000,2021,2021-04-19,4,4400000
+11939,55,0,46,10,0,750000,15,Year 04,BSc in Management Information Systems (Special) - MOHE,2018.1,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,50000,2021,2021-04-19,4,750000
+11940,55,0,46,12,0,3200000,64,Year 03,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 02,64,NSBM,2021-05-03,50000,2021,2021-04-19,4,3200000
+11941,55,290000,17,23,1,2710000,14,Year 01,BSc (Honours) in Software Engineering,2020.3,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,200000,2021,2021-04-19,4,3000000
+11942,55,0,19,23,0,200000,1,Year 01,BSc (Honours) in Computer Networks,2020.3,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,200000,2021,2021-04-19,4,200000
+11943,55,0,22,23,0,2750000,10,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.3,Faculty Of Computing,Semester 02,10,Victoria University,2021-05-03,275000,2021,2021-04-19,4,2750000
+11944,55,7563337,23,23,23,49736663,168,Year 01,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 02,191,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,57300000
+11945,55,1500000,24,23,5,4200000,14,Year 01,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+11946,55,2280000,25,23,7,3420000,12,Year 01,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+11947,55,2400000,62,23,8,6600000,22,Year 01,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 02,30,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,9000000
+11948,55,150000,16,2,1,1650000,11,Year 04,BSc in Management Information Systems (Special),2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+11949,55,100000,17,2,0,1700000,12,Year 04,BSc (Honours) in Software Engineering,2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+11950,55,0,16,12,0,12400000,62,Year 03,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 02,62,NSBM,2021-05-03,200000,2021,2021-04-19,4,12400000
+11951,55,0,17,12,0,2600000,13,Year 03,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 02,13,NSBM,2021-05-03,200000,2021,2021-04-19,4,2600000
+11952,55,0,18,12,0,1400000,7,Year 03,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,200000,2021,2021-04-19,4,1400000
+11953,55,0,19,12,0,400000,2,Year 03,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 02,2,NSBM,2021-05-03,200000,2021,2021-04-19,4,400000
+11954,55,0,16,1,0,3450000,23,Year 03,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 02,23,NSBM,2021-05-03,150000,2021,2021-04-19,4,3450000
+11955,55,450000,17,1,3,1950000,13,Year 03,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 02,16,NSBM,2021-05-03,150000,2021,2021-04-19,4,2400000
+11956,55,0,17,10,0,2700000,18,Year 04,BSc (Honours) in Software Engineering,2018.1,Faculty Of Computing,Semester 02,18,NSBM,2021-05-03,150000,2021,2021-04-19,4,2700000
+11957,55,0,18,10,0,1200000,8,Year 04,BSc (Honours) in Computer Science,2018.1,Faculty Of Computing,Semester 02,8,NSBM,2021-05-03,150000,2021,2021-04-19,4,1200000
+11958,55,0,19,10,0,0,1,Year 04,BSc (Honours) in Computer Networks,2018.1,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,0,2021,2021-04-19,4,0
+11959,55,150000,18,1,1,750000,5,Year 03,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 02,6,NSBM,2021-05-03,150000,2021,2021-04-19,4,900000
+11960,55,150000,16,10,1,4800000,32,Year 04,BSc in Management Information Systems (Special),2018.1,Faculty Of Computing,Semester 02,33,NSBM,2021-05-03,150000,2021,2021-04-19,4,4950000
+11961,55,225000,18,24,1,0,0,Year 01,BSc (Honours) in Computer Science,2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+11962,55,2435000,62,24,7,15000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,7,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,2450000
+11963,55,2435000,62,24,7,15000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,7,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,2450000
+11964,55,350000,25,24,1,0,0,Year 01,BSc (Honours) Computer Security,2021.1,Faculty Of Computing,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+11965,55,220000,17,24,1,5000,0,Year 01,BSc (Honours) in Software Engineering,2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+11966,55,6230000,23,24,17,70000,1,Year 01,BSc (Honours) Software Engineering,2021.1,Faculty Of Computing,Semester 01,18,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,6300000
+11967,55,700000,24,24,2,0,0,Year 01,BSc (Honours) Computer Networks,2021.1,Faculty Of Computing,Semester 01,2,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,700000
+11968,55,0,49,20,0,750000,5,Year 01,BA in Business Communication - MOHE,2020.2,Faculty Of Business,Semester 02,5,NSBM,2021-04-19,150000,2021,2021-04-05,4,750000
+11969,55,300000,63,23,1,3275000,12,Year 01,Bachelor of Business: Management and Innovation & Supply Chain and Logistics Management,2020.3,Faculty Of Business,Semester 02,13,Victoria University,2021-04-19,275000,2021,2021-04-05,4,3575000
+11970,55,0,65,23,0,200000,1,Year 01,BBM in Tourism Hospitality and Events,2020.3,Faculty Of Business,Semester 02,1,NSBM,2021-04-19,200000,2021,2021-04-05,4,200000
+11971,55,0,45,20,0,30200000,151,Year 01,BM Honours in Accounting & Finance - MOHE,2020.2,Faculty Of Business,Semester 02,151,NSBM,2021-04-19,200000,2021,2021-04-05,4,30200000
+11972,55,800000,1,20,4,1200000,6,Year 01,BSc in Business Management (Special),2020.2,Faculty Of Business,Semester 02,10,NSBM,2021-04-19,200000,2021,2021-04-05,4,2000000
+11973,55,0,5,20,0,200000,1,Year 01,BM (Honours) in Accounting and Finance,2020.2,Faculty Of Business,Semester 02,1,NSBM,2021-04-19,200000,2021,2021-04-05,4,200000
+11974,55,0,52,20,0,225000,1,Year 01,BM (Honours) in International Business,2020.2,Faculty Of Business,Semester 02,1,NSBM,2021-04-19,225000,2021,2021-04-05,4,225000
+11975,55,0,61,20,0,9200000,46,Year 01,BSc in Business Management (Project Management) - MOHE,2020.2,Faculty Of Business,Semester 02,46,NSBM,2021-04-19,200000,2021,2021-04-05,4,9200000
+11976,55,450000,52,23,2,675000,3,Year 01,BM (Honours) in International Business,2020.3,Faculty Of Business,Semester 02,5,NSBM,2021-04-19,225000,2021,2021-04-05,4,1125000
+11977,55,1675000,9,23,6,3000000,11,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2020.3,Faculty Of Business,Semester 02,17,Victoria University,2021-04-19,275000,2021,2021-04-05,4,4675000
+11978,55,400000,5,23,2,3600000,18,Year 01,BM (Honours) in Accounting and Finance,2020.3,Faculty Of Business,Semester 02,20,NSBM,2021-04-19,200000,2021,2021-04-05,4,4000000
+11979,55,3000000,1,23,15,11200000,56,Year 01,BSc in Business Management (Special),2020.3,Faculty Of Business,Semester 02,71,NSBM,2021-04-19,200000,2021,2021-04-05,4,14200000
+11980,55,210000,8,1,1,4200000,20,Year 03,BSc (Hons) Human Resource Management,2018.2,Faculty Of Business,Semester 02,21,University College Dublin,2021-04-22,210000,2021,2021-04-08,4,4410000
+11981,55,184600,7,1,0,8425400,41,Year 03,BSc (Hons) Management,2018.2,Faculty Of Business,Semester 02,41,University College Dublin,2021-04-22,210000,2021,2021-04-08,4,8610000
+11982,55,1890000,7,12,9,7140000,34,Year 03,BSc (Hons) Management,2019.1,Faculty Of Business,Semester 02,43,University College Dublin,2021-04-22,210000,2021,2021-04-08,4,9030000
+11983,55,630000,8,12,3,420000,2,Year 03,BSc (Hons) Human Resource Management,2019.1,Faculty Of Business,Semester 02,5,University College Dublin,2021-04-22,210000,2021,2021-04-08,4,1050000
+11984,55,0,61,24,0,200000,1,Year 01,BSc in Business Management (Project Management) - MOHE,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,200000,2021,2021-04-20,4,200000
+11985,55,2235000,13,24,5,215000,2,Year 01,BSc (Honours) Operations and Logistics Management,2021.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,2450000
+11986,55,225000,52,24,1,0,0,Year 01,BM (Honours) in International Business,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+11987,55,2025000,1,24,9,450000,2,Year 01,BSc in Business Management (Special),2021.1,Faculty Of Business,Semester 01,11,NSBM,2021-05-04,225000,2021,2021-04-20,4,2475000
+11988,55,1120000,5,24,5,5000,0,Year 01,BM (Honours) in Accounting and Finance,2021.1,Faculty Of Business,Semester 01,5,NSBM,2021-05-04,225000,2021,2021-04-20,4,1125000
+11989,55,350000,12,24,1,0,0,Year 01,BSc (Honours) Marketing Management,2021.1,Faculty Of Business,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+11990,55,1040000,14,24,3,10000,0,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+11991,55,350000,15,24,1,0,0,Year 01,BSc (Honours) Business Communication,2021.1,Faculty Of Business,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+11992,55,345000,9,24,1,5000,0,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.1,Faculty Of Business,Semester 01,1,Victoria University,2021-05-04,350000,2021,2021-04-20,4,350000
+11993,55,1045000,11,24,3,5000,0,Year 01,BSc (Honours) Accounting and Finance,2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+11994,55,5075000,10,24,14,175000,1,Year 01,BSc (Honours) International Management  and Business,2021.1,Faculty Of Business,Semester 01,15,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,5250000
+11995,55,0,7,1,0,8610000,41,Year 04,BSc (Hons) Management,2018.2,Faculty Of Business,Semester 02,41,University College Dublin,2021-05-05,210000,2021,2021-04-21,4,8610000
+11996,55,0,8,10,0,1260000,6,Year 04,BSc (Hons) Human Resource Management,2018.1,Faculty Of Business,Semester 02,6,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,1260000
+11997,55,210000,7,10,1,15120000,72,Year 04,BSc (Hons) Management,2018.1,Faculty Of Business,Semester 02,73,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,15330000
+11998,55,630000,7,2,3,13230000,63,Year 04,BSc (Hons) Management,2017.2,Faculty Of Business,Semester 02,66,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,13860000
+11999,55,0,5,19,0,8000000,40,Year 02,BM (Honours) in Accounting and Finance,2020.1,Faculty Of Business,Semester 02,40,NSBM,2021-05-12,200000,2021,2021-04-28,4,8000000
+12000,55,0,52,19,0,5625000,25,Year 02,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,25,NSBM,2021-05-12,225000,2021,2021-04-28,4,5625000
+12001,55,50000,1,19,0,45950000,230,Year 02,BSc in Business Management (Special),2020.1,Faculty Of Business,Semester 02,230,NSBM,2021-05-12,200000,2021,2021-04-28,4,46000000
+12002,55,0,7,19,0,6750000,30,Year 02,BSc (Hons) Management,2020.1,Faculty Of Business,Semester 02,30,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,6750000
+12003,55,0,8,19,0,2025000,9,Year 02,BSc (Hons) Human Resource Management,2020.1,Faculty Of Business,Semester 02,9,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,2025000
+12004,55,725000,1,16,2,12275000,63,Year 02,BSc in Business Management (Special),2019.2,Faculty Of Business,Semester 02,65,NSBM,2021-05-12,200000,2021,2021-04-28,4,13000000
+12005,55,0,7,16,0,9675000,43,Year 02,BSc (Hons) Management,2019.2,Faculty Of Business,Semester 02,43,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,9675000
+12006,55,0,8,16,0,1800000,8,Year 02,BSc (Hons) Human Resource Management,2019.2,Faculty Of Business,Semester 02,8,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,1800000
+12007,55,1000000,5,16,5,3600000,18,Year 02,BM (Honours) in Accounting and Finance,2019.2,Faculty Of Business,Semester 02,23,NSBM,2021-05-12,200000,2021,2021-04-28,4,4600000
+12008,55,100000,52,16,0,1250000,6,Year 02,BM (Honours) in International Business,2019.2,Faculty Of Business,Semester 02,6,NSBM,2021-05-12,225000,2021,2021-04-28,4,1350000
+12009,55,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12010,55,135000,28,19,1,1740000,14,Year 01,Master of Business Administration,2020.1,Faculty Of Business,Semester 02,15,NSBM,2021-05-16,125000,2021,2021-05-02,5,1875000
+12011,55,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12012,55,650000,34,16,2,1850000,8,Year 02,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 02,10,NSBM,2021-05-03,250000,2021,2021-04-19,4,2500000
+12013,55,300000,34,24,1,0,0,Year 01,Bachelor of Interior Design,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12014,55,295000,54,24,1,5000,0,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12015,55,0,53,12,0,0,6,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+12016,55,300000,26,12,1,1500000,5,Year 03,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,300000,2021,2021-05-03,5,1800000
+12017,55,0,54,12,0,0,6,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+12522,3,0,32,19,0,900000,9,Year 01,Postgraduate Diploma in Computer Networks,2020.1,Faculty Of Computing,Semester 02,9,NSBM,2021-05-01,100000,2021,2021-04-17,4,900000
+12523,3,800000,16,12,4,11600000,58,Year 03,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 02,62,NSBM,2021-05-03,200000,2021,2021-04-19,4,12400000
+12524,3,3600000,62,23,12,5400000,18,Year 01,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 02,30,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,9000000
+12525,3,2880000,25,23,9,2820000,10,Year 01,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+12526,3,2100000,24,23,7,3600000,12,Year 01,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+12527,3,275000,22,23,1,2475000,9,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.3,Faculty Of Computing,Semester 02,10,Victoria University,2021-05-03,275000,2021,2021-04-19,4,2750000
+12528,3,0,19,23,0,200000,1,Year 01,BSc (Honours) in Computer Networks,2020.3,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,200000,2021,2021-04-19,4,200000
+12529,3,0,18,23,0,600000,3,Year 01,BSc (Honours) in Computer Science,2020.3,Faculty Of Computing,Semester 02,3,NSBM,2021-05-03,200000,2021,2021-04-19,4,600000
+12530,3,0,46,10,0,750000,15,Year 04,BSc in Management Information Systems (Special) - MOHE,2018.1,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,50000,2021,2021-04-19,4,750000
+12531,3,0,46,12,0,3200000,64,Year 03,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 02,64,NSBM,2021-05-03,50000,2021,2021-04-19,4,3200000
+12532,3,0,46,2,0,350000,7,Year 04,BSc in Management Information Systems (Special) - MOHE,2017.2,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,50000,2021,2021-04-19,4,350000
+12533,3,490000,17,23,2,2510000,13,Year 01,BSc (Honours) in Software Engineering,2020.3,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,200000,2021,2021-04-19,4,3000000
+12534,3,0,16,23,0,4400000,22,Year 01,BSc in Management Information Systems (Special),2020.3,Faculty Of Computing,Semester 02,22,NSBM,2021-05-03,200000,2021,2021-04-19,4,4400000
+12535,3,13345100,23,23,42,44254900,150,Year 01,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 02,192,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,57600000
+12536,3,450000,16,2,3,1350000,9,Year 04,BSc in Management Information Systems (Special),2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+12537,3,150000,17,2,1,1650000,11,Year 04,BSc (Honours) in Software Engineering,2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+12538,3,0,17,12,0,2600000,13,Year 03,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 02,13,NSBM,2021-05-03,200000,2021,2021-04-19,4,2600000
+12539,3,0,18,12,0,1400000,7,Year 03,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,200000,2021,2021-04-19,4,1400000
+12540,3,0,19,12,0,400000,2,Year 03,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 02,2,NSBM,2021-05-03,200000,2021,2021-04-19,4,400000
+12541,3,0,16,1,0,3450000,23,Year 03,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 02,23,NSBM,2021-05-03,150000,2021,2021-04-19,4,3450000
+12542,3,450000,17,1,3,1950000,13,Year 03,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 02,16,NSBM,2021-05-03,150000,2021,2021-04-19,4,2400000
+12543,3,300000,18,1,2,600000,4,Year 03,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 02,6,NSBM,2021-05-03,150000,2021,2021-04-19,4,900000
+12544,3,300000,16,10,2,4650000,31,Year 04,BSc in Management Information Systems (Special),2018.1,Faculty Of Computing,Semester 02,33,NSBM,2021-05-03,150000,2021,2021-04-19,4,4950000
+12545,3,0,19,10,0,0,1,Year 04,BSc (Honours) in Computer Networks,2018.1,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,0,2021,2021-04-19,4,0
+12546,3,0,18,10,0,1200000,8,Year 04,BSc (Honours) in Computer Science,2018.1,Faculty Of Computing,Semester 02,8,NSBM,2021-05-03,150000,2021,2021-04-19,4,1200000
+12547,3,150000,17,10,1,2550000,17,Year 04,BSc (Honours) in Software Engineering,2018.1,Faculty Of Computing,Semester 02,18,NSBM,2021-05-03,150000,2021,2021-04-19,4,2700000
+12548,3,3130000,62,24,9,20000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,9,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,3150000
+12549,3,700000,24,24,2,0,0,Year 01,BSc (Honours) Computer Networks,2021.1,Faculty Of Computing,Semester 01,2,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,700000
+12550,3,6925000,23,24,19,75000,1,Year 01,BSc (Honours) Software Engineering,2021.1,Faculty Of Computing,Semester 01,20,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,7000000
+12551,3,225000,16,24,1,0,0,Year 01,BSc in Management Information Systems (Special),2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+12552,3,445000,17,24,2,5000,0,Year 01,BSc (Honours) in Software Engineering,2021.1,Faculty Of Computing,Semester 01,2,NSBM,2021-05-04,225000,2021,2021-04-20,4,450000
+12553,3,350000,25,24,1,0,0,Year 01,BSc (Honours) Computer Security,2021.1,Faculty Of Computing,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12554,3,400000,18,24,1,50000,1,Year 01,BSc (Honours) in Computer Science,2021.1,Faculty Of Computing,Semester 01,2,NSBM,2021-05-04,225000,2021,2021-04-20,4,450000
+12555,3,3130000,62,24,9,20000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,9,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,3150000
+12556,3,0,61,24,0,200000,1,Year 01,BSc in Business Management (Project Management) - MOHE,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,200000,2021,2021-04-20,4,200000
+12557,3,225000,52,24,1,0,0,Year 01,BM (Honours) in International Business,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+12558,3,345000,9,24,1,5000,0,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.1,Faculty Of Business,Semester 01,1,Victoria University,2021-05-04,350000,2021,2021-04-20,4,350000
+12559,3,2235000,13,24,5,215000,2,Year 01,BSc (Honours) Operations and Logistics Management,2021.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,2450000
+12560,3,700000,12,24,2,0,0,Year 01,BSc (Honours) Marketing Management,2021.1,Faculty Of Business,Semester 01,2,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,700000
+12561,3,1040000,14,24,3,10000,0,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+12562,3,350000,15,24,1,0,0,Year 01,BSc (Honours) Business Communication,2021.1,Faculty Of Business,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12563,3,1120000,5,24,5,5000,0,Year 01,BM (Honours) in Accounting and Finance,2021.1,Faculty Of Business,Semester 01,5,NSBM,2021-05-04,225000,2021,2021-04-20,4,1125000
+12564,3,5425000,10,24,15,175000,1,Year 01,BSc (Honours) International Management  and Business,2021.1,Faculty Of Business,Semester 01,16,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,5600000
+12565,3,1045000,11,24,3,5000,0,Year 01,BSc (Honours) Accounting and Finance,2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+12566,3,2470000,1,24,11,455000,2,Year 01,BSc in Business Management (Special),2021.1,Faculty Of Business,Semester 01,13,NSBM,2021-05-04,225000,2021,2021-04-20,4,2925000
+12567,3,0,7,1,0,8610000,41,Year 04,BSc (Hons) Management,2018.2,Faculty Of Business,Semester 02,41,University College Dublin,2021-05-05,210000,2021,2021-04-21,4,8610000
+12568,3,630000,7,2,3,13230000,63,Year 04,BSc (Hons) Management,2017.2,Faculty Of Business,Semester 02,66,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,13860000
+12569,3,0,8,10,0,1260000,6,Year 04,BSc (Hons) Human Resource Management,2018.1,Faculty Of Business,Semester 02,6,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,1260000
+12570,3,1890000,7,10,9,13440000,64,Year 04,BSc (Hons) Management,2018.1,Faculty Of Business,Semester 02,73,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,15330000
+12571,3,225000,52,19,1,5400000,24,Year 02,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,25,NSBM,2021-05-12,225000,2021,2021-04-28,4,5625000
+12572,3,0,8,19,0,2025000,9,Year 02,BSc (Hons) Human Resource Management,2020.1,Faculty Of Business,Semester 02,9,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,2025000
+12573,3,0,7,16,0,9675000,43,Year 02,BSc (Hons) Management,2019.2,Faculty Of Business,Semester 02,43,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,9675000
+12574,3,225000,8,16,1,1575000,7,Year 02,BSc (Hons) Human Resource Management,2019.2,Faculty Of Business,Semester 02,8,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,1800000
+12575,3,925000,1,16,3,12075000,62,Year 02,BSc in Business Management (Special),2019.2,Faculty Of Business,Semester 02,65,NSBM,2021-05-12,200000,2021,2021-04-28,4,13000000
+12576,3,1300000,5,16,6,3300000,17,Year 02,BM (Honours) in Accounting and Finance,2019.2,Faculty Of Business,Semester 02,23,NSBM,2021-05-12,200000,2021,2021-04-28,4,4600000
+12577,3,0,7,19,0,6750000,30,Year 02,BSc (Hons) Management,2020.1,Faculty Of Business,Semester 02,30,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,6750000
+12578,3,0,5,19,0,8000000,40,Year 02,BM (Honours) in Accounting and Finance,2020.1,Faculty Of Business,Semester 02,40,NSBM,2021-05-12,200000,2021,2021-04-28,4,8000000
+12579,3,100000,52,16,0,1250000,6,Year 02,BM (Honours) in International Business,2019.2,Faculty Of Business,Semester 02,6,NSBM,2021-05-12,225000,2021,2021-04-28,4,1350000
+12580,3,450000,1,19,2,44950000,225,Year 02,BSc in Business Management (Special),2020.1,Faculty Of Business,Semester 02,227,NSBM,2021-05-12,200000,2021,2021-04-28,4,45400000
+12581,3,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12582,3,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12583,3,135000,28,19,1,1740000,14,Year 01,Master of Business Administration,2020.1,Faculty Of Business,Semester 02,15,NSBM,2021-05-16,125000,2021,2021-05-02,5,1875000
+12584,3,2467000,5,12,11,9733000,50,Year 03,BM (Honours) in Accounting and Finance,2019.1,Faculty Of Business,Semester 02,61,NSBM,2021-05-22,200000,2021,2021-05-08,5,12200000
+12585,3,0,45,12,0,8150000,163,Year 03,BM Honours in Accounting & Finance - MOHE,2019.1,Faculty Of Business,Semester 02,163,NSBM,2021-05-22,50000,2021,2021-05-08,5,8150000
+12586,3,0,49,12,0,525000,7,Year 03,BA in Business Communication - MOHE,2019.1,Faculty Of Business,Semester 02,7,NSBM,2021-05-22,75000,2021,2021-05-08,5,525000
+12587,3,1200000,1,12,6,36000000,180,Year 03,BSc in Business Management (Special),2019.1,Faculty Of Business,Semester 02,186,NSBM,2021-05-22,200000,2021,2021-05-08,5,37200000
+12588,3,350000,1,1,2,13000000,87,Year 03,BSc in Business Management (Special),2018.2,Faculty Of Business,Semester 02,89,NSBM,2021-05-22,150000,2021,2021-05-08,5,13350000
+12589,3,250000,5,1,1,4850000,33,Year 03,BM (Honours) in Accounting and Finance,2018.2,Faculty Of Business,Semester 02,34,NSBM,2021-05-22,150000,2021,2021-05-08,5,5100000
+12590,3,1130000,1,2,7,10870000,73,Year 04,BSc in Business Management (Special),2017.2,Faculty Of Business,Semester 02,80,NSBM,2021-05-23,150000,2021,2021-05-09,5,12000000
+12591,3,0,9,1,0,4400000,16,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.2,Faculty Of Business,Semester 02,16,Victoria University,2021-05-23,275000,2021,2021-05-09,5,4400000
+12592,3,1825000,1,10,12,26825000,179,Year 04,BSc in Business Management (Special),2018.1,Faculty Of Business,Semester 02,191,NSBM,2021-05-23,150000,2021,2021-05-09,5,28650000
+12593,3,0,9,12,0,6600000,24,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.1,Faculty Of Business,Semester 01,24,Victoria University,2021-05-23,275000,2021,2021-05-09,5,6600000
+12594,3,0,45,2,0,1400000,28,Year 04,BM Honours in Accounting & Finance - MOHE,2017.2,Faculty Of Business,Semester 02,28,NSBM,2021-05-23,50000,2021,2021-05-09,5,1400000
+12595,3,150000,5,2,1,3300000,22,Year 04,BM (Honours) in Accounting and Finance,2017.2,Faculty Of Business,Semester 02,23,NSBM,2021-05-23,150000,2021,2021-05-09,5,3450000
+12596,3,0,45,10,0,2750000,55,Year 04,BM Honours in Accounting & Finance - MOHE,2018.1,Faculty Of Business,Semester 02,55,NSBM,2021-05-23,50000,2021,2021-05-09,5,2750000
+12597,3,870000,5,10,5,7680000,52,Year 04,BM (Honours) in Accounting and Finance,2018.1,Faculty Of Business,Semester 02,57,NSBM,2021-05-23,150000,2021,2021-05-09,5,8550000
+12598,3,550000,9,16,2,3575000,13,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.2,Faculty Of Business,Semester 02,15,Victoria University,2021-05-23,275000,2021,2021-05-09,5,4125000
+12599,3,1150000,34,16,4,1350000,6,Year 02,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 02,10,NSBM,2021-05-03,250000,2021,2021-04-19,4,2500000
+12600,3,345000,56,24,1,5000,0,Year 01,BA (Hons) in Interior Design,2021.1,Faculty Of Engineering,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12601,3,295000,54,24,1,5000,0,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12602,3,300000,34,24,1,0,0,Year 01,Bachelor of Interior Design,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12603,3,0,53,12,0,0,6,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+12604,3,300000,26,12,1,1500000,5,Year 03,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,300000,2021,2021-05-03,5,1800000
+12605,3,0,54,12,0,0,6,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+12606,13,0,32,19,0,900000,9,Year 01,Postgraduate Diploma in Computer Networks,2020.1,Faculty Of Computing,Semester 02,9,NSBM,2021-05-01,100000,2021,2021-04-17,4,900000
+12607,13,800000,16,12,4,11600000,58,Year 03,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 02,62,NSBM,2021-05-03,200000,2021,2021-04-19,4,12400000
+12608,13,3600000,62,23,12,5400000,18,Year 01,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 02,30,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,9000000
+12609,13,2880000,25,23,9,2820000,10,Year 01,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+12610,13,2100000,24,23,7,3600000,12,Year 01,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 02,19,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,5700000
+12611,13,275000,22,23,1,2475000,9,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.3,Faculty Of Computing,Semester 02,10,Victoria University,2021-05-03,275000,2021,2021-04-19,4,2750000
+12612,13,0,19,23,0,200000,1,Year 01,BSc (Honours) in Computer Networks,2020.3,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,200000,2021,2021-04-19,4,200000
+12613,13,0,18,23,0,600000,3,Year 01,BSc (Honours) in Computer Science,2020.3,Faculty Of Computing,Semester 02,3,NSBM,2021-05-03,200000,2021,2021-04-19,4,600000
+12614,13,0,46,10,0,750000,15,Year 04,BSc in Management Information Systems (Special) - MOHE,2018.1,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,50000,2021,2021-04-19,4,750000
+12615,13,0,46,12,0,3200000,64,Year 03,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 02,64,NSBM,2021-05-03,50000,2021,2021-04-19,4,3200000
+12616,13,0,46,2,0,350000,7,Year 04,BSc in Management Information Systems (Special) - MOHE,2017.2,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,50000,2021,2021-04-19,4,350000
+12617,13,490000,17,23,2,2510000,13,Year 01,BSc (Honours) in Software Engineering,2020.3,Faculty Of Computing,Semester 02,15,NSBM,2021-05-03,200000,2021,2021-04-19,4,3000000
+12618,13,0,16,23,0,4400000,22,Year 01,BSc in Management Information Systems (Special),2020.3,Faculty Of Computing,Semester 02,22,NSBM,2021-05-03,200000,2021,2021-04-19,4,4400000
+12619,13,13345100,23,23,42,44254900,150,Year 01,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 02,192,Plymouth University,2021-05-03,300000,2021,2021-04-19,4,57600000
+12620,13,450000,16,2,3,1350000,9,Year 04,BSc in Management Information Systems (Special),2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+12621,13,150000,17,2,1,1650000,11,Year 04,BSc (Honours) in Software Engineering,2017.2,Faculty Of Computing,Semester 02,12,NSBM,2021-05-03,150000,2021,2021-04-19,4,1800000
+12622,13,0,17,12,0,2600000,13,Year 03,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 02,13,NSBM,2021-05-03,200000,2021,2021-04-19,4,2600000
+12623,13,0,18,12,0,1400000,7,Year 03,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 02,7,NSBM,2021-05-03,200000,2021,2021-04-19,4,1400000
+12624,13,0,19,12,0,400000,2,Year 03,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 02,2,NSBM,2021-05-03,200000,2021,2021-04-19,4,400000
+12625,13,0,16,1,0,3450000,23,Year 03,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 02,23,NSBM,2021-05-03,150000,2021,2021-04-19,4,3450000
+12626,13,450000,17,1,3,1950000,13,Year 03,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 02,16,NSBM,2021-05-03,150000,2021,2021-04-19,4,2400000
+12627,13,300000,18,1,2,600000,4,Year 03,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 02,6,NSBM,2021-05-03,150000,2021,2021-04-19,4,900000
+12628,13,300000,16,10,2,4650000,31,Year 04,BSc in Management Information Systems (Special),2018.1,Faculty Of Computing,Semester 02,33,NSBM,2021-05-03,150000,2021,2021-04-19,4,4950000
+12629,13,0,19,10,0,0,1,Year 04,BSc (Honours) in Computer Networks,2018.1,Faculty Of Computing,Semester 02,1,NSBM,2021-05-03,0,2021,2021-04-19,4,0
+12630,13,0,18,10,0,1200000,8,Year 04,BSc (Honours) in Computer Science,2018.1,Faculty Of Computing,Semester 02,8,NSBM,2021-05-03,150000,2021,2021-04-19,4,1200000
+12631,13,150000,17,10,1,2550000,17,Year 04,BSc (Honours) in Software Engineering,2018.1,Faculty Of Computing,Semester 02,18,NSBM,2021-05-03,150000,2021,2021-04-19,4,2700000
+12632,13,3130000,62,24,9,20000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,9,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,3150000
+12633,13,700000,24,24,2,0,0,Year 01,BSc (Honours) Computer Networks,2021.1,Faculty Of Computing,Semester 01,2,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,700000
+12634,13,6925000,23,24,19,75000,1,Year 01,BSc (Honours) Software Engineering,2021.1,Faculty Of Computing,Semester 01,20,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,7000000
+12635,13,225000,16,24,1,0,0,Year 01,BSc in Management Information Systems (Special),2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+12636,13,445000,17,24,2,5000,0,Year 01,BSc (Honours) in Software Engineering,2021.1,Faculty Of Computing,Semester 01,2,NSBM,2021-05-04,225000,2021,2021-04-20,4,450000
+12637,13,350000,25,24,1,0,0,Year 01,BSc (Honours) Computer Security,2021.1,Faculty Of Computing,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12638,13,400000,18,24,1,50000,1,Year 01,BSc (Honours) in Computer Science,2021.1,Faculty Of Computing,Semester 01,2,NSBM,2021-05-04,225000,2021,2021-04-20,4,450000
+12639,13,3130000,62,24,9,20000,0,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 01,9,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,3150000
+12640,13,0,61,24,0,200000,1,Year 01,BSc in Business Management (Project Management) - MOHE,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,200000,2021,2021-04-20,4,200000
+12641,13,225000,52,24,1,0,0,Year 01,BM (Honours) in International Business,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-05-04,225000,2021,2021-04-20,4,225000
+12642,13,345000,9,24,1,5000,0,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.1,Faculty Of Business,Semester 01,1,Victoria University,2021-05-04,350000,2021,2021-04-20,4,350000
+12643,13,2235000,13,24,5,215000,2,Year 01,BSc (Honours) Operations and Logistics Management,2021.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,2450000
+12644,13,700000,12,24,2,0,0,Year 01,BSc (Honours) Marketing Management,2021.1,Faculty Of Business,Semester 01,2,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,700000
+12645,13,1040000,14,24,3,10000,0,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+12646,13,350000,15,24,1,0,0,Year 01,BSc (Honours) Business Communication,2021.1,Faculty Of Business,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12647,13,1120000,5,24,5,5000,0,Year 01,BM (Honours) in Accounting and Finance,2021.1,Faculty Of Business,Semester 01,5,NSBM,2021-05-04,225000,2021,2021-04-20,4,1125000
+12648,13,5425000,10,24,15,175000,1,Year 01,BSc (Honours) International Management  and Business,2021.1,Faculty Of Business,Semester 01,16,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,5600000
+12649,13,1045000,11,24,3,5000,0,Year 01,BSc (Honours) Accounting and Finance,2021.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,1050000
+12650,13,2470000,1,24,11,455000,2,Year 01,BSc in Business Management (Special),2021.1,Faculty Of Business,Semester 01,13,NSBM,2021-05-04,225000,2021,2021-04-20,4,2925000
+12651,13,0,7,1,0,8610000,41,Year 04,BSc (Hons) Management,2018.2,Faculty Of Business,Semester 02,41,University College Dublin,2021-05-05,210000,2021,2021-04-21,4,8610000
+12652,13,630000,7,2,3,13230000,63,Year 04,BSc (Hons) Management,2017.2,Faculty Of Business,Semester 02,66,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,13860000
+12653,13,0,8,10,0,1260000,6,Year 04,BSc (Hons) Human Resource Management,2018.1,Faculty Of Business,Semester 02,6,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,1260000
+12654,13,1890000,7,10,9,13440000,64,Year 04,BSc (Hons) Management,2018.1,Faculty Of Business,Semester 02,73,University College Dublin,2021-05-06,210000,2021,2021-04-22,4,15330000
+12655,13,225000,52,19,1,5400000,24,Year 02,BM (Honours) in International Business,2020.1,Faculty Of Business,Semester 02,25,NSBM,2021-05-12,225000,2021,2021-04-28,4,5625000
+12656,13,0,8,19,0,2025000,9,Year 02,BSc (Hons) Human Resource Management,2020.1,Faculty Of Business,Semester 02,9,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,2025000
+12657,13,0,7,16,0,9675000,43,Year 02,BSc (Hons) Management,2019.2,Faculty Of Business,Semester 02,43,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,9675000
+12658,13,225000,8,16,1,1575000,7,Year 02,BSc (Hons) Human Resource Management,2019.2,Faculty Of Business,Semester 02,8,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,1800000
+12659,13,925000,1,16,3,12075000,62,Year 02,BSc in Business Management (Special),2019.2,Faculty Of Business,Semester 02,65,NSBM,2021-05-12,200000,2021,2021-04-28,4,13000000
+12660,13,1300000,5,16,6,3300000,17,Year 02,BM (Honours) in Accounting and Finance,2019.2,Faculty Of Business,Semester 02,23,NSBM,2021-05-12,200000,2021,2021-04-28,4,4600000
+12661,13,0,7,19,0,6750000,30,Year 02,BSc (Hons) Management,2020.1,Faculty Of Business,Semester 02,30,University College Dublin,2021-05-12,225000,2021,2021-04-28,4,6750000
+12662,13,0,5,19,0,8000000,40,Year 02,BM (Honours) in Accounting and Finance,2020.1,Faculty Of Business,Semester 02,40,NSBM,2021-05-12,200000,2021,2021-04-28,4,8000000
+12663,13,100000,52,16,0,1250000,6,Year 02,BM (Honours) in International Business,2019.2,Faculty Of Business,Semester 02,6,NSBM,2021-05-12,225000,2021,2021-04-28,4,1350000
+12664,13,450000,1,19,2,44950000,225,Year 02,BSc in Business Management (Special),2020.1,Faculty Of Business,Semester 02,227,NSBM,2021-05-12,200000,2021,2021-04-28,4,45400000
+12665,13,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12666,13,5000,33,19,0,3595000,36,Year 01,Master of Business Administration (Alumni NSBM),2020.1,Faculty Of Business,Semester 02,36,NSBM,2021-05-16,100000,2021,2021-05-02,5,3600000
+12667,13,135000,28,19,1,1740000,14,Year 01,Master of Business Administration,2020.1,Faculty Of Business,Semester 02,15,NSBM,2021-05-16,125000,2021,2021-05-02,5,1875000
+12668,13,2467000,5,12,11,9733000,50,Year 03,BM (Honours) in Accounting and Finance,2019.1,Faculty Of Business,Semester 02,61,NSBM,2021-05-22,200000,2021,2021-05-08,5,12200000
+12669,13,0,45,12,0,8150000,163,Year 03,BM Honours in Accounting & Finance - MOHE,2019.1,Faculty Of Business,Semester 02,163,NSBM,2021-05-22,50000,2021,2021-05-08,5,8150000
+12670,13,0,49,12,0,525000,7,Year 03,BA in Business Communication - MOHE,2019.1,Faculty Of Business,Semester 02,7,NSBM,2021-05-22,75000,2021,2021-05-08,5,525000
+12671,13,1200000,1,12,6,36000000,180,Year 03,BSc in Business Management (Special),2019.1,Faculty Of Business,Semester 02,186,NSBM,2021-05-22,200000,2021,2021-05-08,5,37200000
+12672,13,350000,1,1,2,13000000,87,Year 03,BSc in Business Management (Special),2018.2,Faculty Of Business,Semester 02,89,NSBM,2021-05-22,150000,2021,2021-05-08,5,13350000
+12673,13,250000,5,1,1,4850000,33,Year 03,BM (Honours) in Accounting and Finance,2018.2,Faculty Of Business,Semester 02,34,NSBM,2021-05-22,150000,2021,2021-05-08,5,5100000
+12674,13,1130000,1,2,7,10870000,73,Year 04,BSc in Business Management (Special),2017.2,Faculty Of Business,Semester 02,80,NSBM,2021-05-23,150000,2021,2021-05-09,5,12000000
+12675,13,0,9,1,0,4400000,16,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2018.2,Faculty Of Business,Semester 02,16,Victoria University,2021-05-23,275000,2021,2021-05-09,5,4400000
+12676,13,1825000,1,10,12,26825000,179,Year 04,BSc in Business Management (Special),2018.1,Faculty Of Business,Semester 02,191,NSBM,2021-05-23,150000,2021,2021-05-09,5,28650000
+12677,13,0,9,12,0,6600000,24,Year 03,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.1,Faculty Of Business,Semester 01,24,Victoria University,2021-05-23,275000,2021,2021-05-09,5,6600000
+12678,13,0,45,2,0,1400000,28,Year 04,BM Honours in Accounting & Finance - MOHE,2017.2,Faculty Of Business,Semester 02,28,NSBM,2021-05-23,50000,2021,2021-05-09,5,1400000
+12679,13,150000,5,2,1,3300000,22,Year 04,BM (Honours) in Accounting and Finance,2017.2,Faculty Of Business,Semester 02,23,NSBM,2021-05-23,150000,2021,2021-05-09,5,3450000
+12680,13,0,45,10,0,2750000,55,Year 04,BM Honours in Accounting & Finance - MOHE,2018.1,Faculty Of Business,Semester 02,55,NSBM,2021-05-23,50000,2021,2021-05-09,5,2750000
+12681,13,870000,5,10,5,7680000,52,Year 04,BM (Honours) in Accounting and Finance,2018.1,Faculty Of Business,Semester 02,57,NSBM,2021-05-23,150000,2021,2021-05-09,5,8550000
+12682,13,550000,9,16,2,3575000,13,Year 02,Bachelor of Business: Banking and Finance & Financial Risk Management,2019.2,Faculty Of Business,Semester 02,15,Victoria University,2021-05-23,275000,2021,2021-05-09,5,4125000
+12683,13,1150000,34,16,4,1350000,6,Year 02,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 02,10,NSBM,2021-05-03,250000,2021,2021-04-19,4,2500000
+12684,13,345000,56,24,1,5000,0,Year 01,BA (Hons) in Interior Design,2021.1,Faculty Of Engineering,Semester 01,1,Plymouth University,2021-05-04,350000,2021,2021-04-20,4,350000
+12685,13,295000,54,24,1,5000,0,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12686,13,300000,34,24,1,0,0,Year 01,Bachelor of Interior Design,2021.1,Faculty Of Engineering,Semester 01,1,NSBM,2021-05-04,300000,2021,2021-04-20,4,300000
+12687,13,0,53,12,0,0,6,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+12688,13,300000,26,12,1,1500000,5,Year 03,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,300000,2021,2021-05-03,5,1800000
+12689,13,0,54,12,0,0,6,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 01,6,NSBM,2021-05-17,0,2021,2021-05-03,5,0
+13108,69,940000,21,1,4,5780000,28,Year 03,BSc (Hons) Management Information System,2018.2,Faculty Of Computing,Semester 02,32,University College Dublin,2021-06-07,210000,2021,2021-05-24,5,6720000
+13109,69,1050000,21,12,5,9450000,45,Year 03,BSc (Hons) Management Information System,2019.1,Faculty Of Computing,Semester 02,50,University College Dublin,2021-06-07,210000,2021,2021-05-24,5,10500000
+13110,69,1890000,21,2,9,6300000,30,Year 04,BSc (Hons) Management Information System,2017.2,Faculty Of Computing,Semester 02,39,University College Dublin,2021-06-07,210000,2021,2021-05-24,5,8190000
+13111,69,1790000,21,10,8,6400000,31,Year 04,BSc (Hons) Management Information System,2018.1,Faculty Of Computing,Semester 02,39,University College Dublin,2021-06-07,210000,2021,2021-05-24,5,8190000
+13112,69,1200000,16,16,6,5000000,25,Year 02,BSc in Management Information Systems (Special),2019.2,Faculty Of Computing,Semester 02,31,NSBM,2021-06-14,200000,2021,2021-05-31,5,6200000
+13113,69,325000,21,19,1,7325000,33,Year 02,BSc (Hons) Management Information System,2020.1,Faculty Of Computing,Semester 02,34,University College Dublin,2021-06-14,225000,2021,2021-05-31,5,7650000
+13114,69,0,19,19,0,400000,2,Year 02,BSc (Honours) in Computer Networks,2020.1,Faculty Of Computing,Semester 02,2,NSBM,2021-06-14,200000,2021,2021-05-31,5,400000
+13115,69,0,18,19,0,1600000,8,Year 02,BSc (Honours) in Computer Science,2020.1,Faculty Of Computing,Semester 02,8,NSBM,2021-06-14,200000,2021,2021-05-31,5,1600000
+13116,69,800000,17,19,4,4800000,24,Year 02,BSc (Honours) in Software Engineering,2020.1,Faculty Of Computing,Semester 02,28,NSBM,2021-06-14,200000,2021,2021-05-31,5,5600000
+13117,69,800000,17,16,4,3000000,15,Year 02,BSc (Honours) in Software Engineering,2019.2,Faculty Of Computing,Semester 02,19,NSBM,2021-06-14,200000,2021,2021-05-31,5,3800000
+13118,69,50000,18,16,0,950000,5,Year 02,BSc (Honours) in Computer Science,2019.2,Faculty Of Computing,Semester 02,5,NSBM,2021-06-14,200000,2021,2021-05-31,5,1000000
+13119,69,705000,21,16,3,11445000,51,Year 02,BSc (Hons) Management Information System,2019.2,Faculty Of Computing,Semester 02,54,University College Dublin,2021-06-14,225000,2021,2021-05-31,5,12150000
+13120,69,275000,16,19,1,11125000,56,Year 02,BSc in Management Information Systems (Special),2020.1,Faculty Of Computing,Semester 02,57,NSBM,2021-06-14,200000,2021,2021-05-31,5,11400000
+13121,69,850000,5,1,5,4250000,29,Year 03,BM (Honours) in Accounting and Finance,2018.2,Faculty Of Business,Semester 02,34,NSBM,2021-06-12,150000,2021,2021-05-29,5,5100000
+13122,69,13060000,1,12,65,24140000,121,Year 03,BSc in Business Management (Special),2019.1,Faculty Of Business,Semester 02,186,NSBM,2021-06-12,200000,2021,2021-05-29,5,37200000
+13123,69,1550000,1,1,10,11800000,79,Year 03,BSc in Business Management (Special),2018.2,Faculty Of Business,Semester 02,89,NSBM,2021-06-12,150000,2021,2021-05-29,5,13350000
+13124,69,0,49,12,0,525000,7,Year 03,BA in Business Communication - MOHE,2019.1,Faculty Of Business,Semester 02,7,NSBM,2021-06-12,75000,2021,2021-05-29,5,525000
+13125,69,0,2,12,0,0,1,Year 03,BSc in Business Management (Logistic Management) (Special),2019.1,Faculty Of Business,Semester 02,1,NSBM,2021-06-12,0,2021,2021-05-29,5,0
+13126,69,4850000,5,12,24,7350000,37,Year 03,BM (Honours) in Accounting and Finance,2019.1,Faculty Of Business,Semester 02,61,NSBM,2021-06-12,200000,2021,2021-05-29,5,12200000
+13127,69,0,45,12,0,8150000,163,Year 03,BM Honours in Accounting & Finance - MOHE,2019.1,Faculty Of Business,Semester 02,163,NSBM,2021-06-12,50000,2021,2021-05-29,5,8150000
+13128,69,0,48,12,0,2775000,37,Year 03,Bachelor of Interior Design - MOHE,2019.1,Faculty Of Engineering,Semester 01,37,NSBM,2021-06-07,75000,2021,2021-05-24,5,2775000
+13129,69,3030000,20,24,10,570000,2,Year 01,BSc in Multimedia,2021.1,Faculty Of Engineering,Semester 01,12,NSBM,2021-06-08,300000,1970,0000-00-00,1,3600000
+13130,69,0,53,19,0,5400000,18,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,18,NSBM,2021-07-05,300000,2021,2021-06-21,6,5400000
+13131,69,0,53,20,0,300000,1,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.2,Faculty Of Engineering,Semester 02,1,NSBM,2021-07-05,300000,2021,2021-06-21,6,300000
+13132,69,0,60,20,0,500000,5,Year 02,BSc Engineering (Hons) in Computer System Engineering - MOHE,2020.2,Faculty Of Engineering,Semester 02,5,NSBM,2021-07-05,100000,2021,2021-06-21,6,500000
+13133,69,600000,26,19,2,4500000,15,Year 02,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,17,NSBM,2021-07-05,300000,2021,2021-06-21,6,5100000
+13134,69,300000,54,19,1,6000000,20,Year 02,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2021-07-05,300000,2021,2021-06-21,6,6300000
+13135,69,7074600,71,24,32,125400,0,Year 01,BSc (Hons) in Biomedical Science,2021.1,Faculty of Science,Semester 01,32,NSBM,2021-06-07,225000,1970,0000-00-00,1,7200000
+13136,69,665000,72,24,3,10000,0,Year 01,BSc (Hons) Public Health and Nutrition,2021.1,Faculty of Science,Semester 01,3,NSBM,2021-06-07,225000,1970,0000-00-00,1,675000
+13172,12,100000,40,24,1,0,0,Year 01,Postgraduate Diploma in Software Engineering,2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-07-25,100000,2021,2021-07-11,7,100000
+13173,12,100000,32,24,1,0,0,Year 01,Postgraduate Diploma in Computer Networks,2021.1,Faculty Of Computing,Semester 01,1,NSBM,2021-07-25,100000,2021,2021-07-11,7,100000
+13174,12,250000,69,24,2,250000,2,Year 01,Master of Business Studies (English Medium),2021.1,Faculty Of Business,Semester 01,4,NSBM,2021-07-25,125000,2021,2021-07-11,7,500000
+13175,12,125000,28,24,1,0,0,Year 01,Master of Business Administration,2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-07-25,125000,2021,2021-07-11,7,125000
+13176,12,0,41,24,0,125000,1,Year 01,Master of Business Studies (Sinhala Medium),2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-07-25,125000,2021,2021-07-11,7,125000
+13177,12,300000,29,24,3,0,0,Year 01,Postgraduate Diploma in Business Management,2021.1,Faculty Of Business,Semester 01,3,NSBM,2021-07-25,100000,2021,2021-07-11,7,300000
+13178,12,200000,31,24,2,0,0,Year 01,Postgraduate Diploma in Human Resource Management (Sinhala Medium),2021.1,Faculty Of Business,Semester 01,2,NSBM,2021-07-25,100000,2021,2021-07-11,7,200000
+13179,12,85000,33,24,0,15000,1,Year 01,Master of Business Administration (Alumni NSBM),2021.1,Faculty Of Business,Semester 01,1,NSBM,2021-07-25,100000,2021,2021-07-11,7,100000
+13180,12,2781,15,16,0,497219,2,Year 03,BSc (Honours) Business Communication,2019.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,500000
+13181,12,0,15,12,0,750000,3,Year 03,BSc (Honours) Business Communication,2019.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,750000
+13182,12,250000,12,16,1,5250000,21,Year 03,BSc (Honours) Marketing Management,2019.2,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13183,12,250000,12,12,1,2000000,8,Year 03,BSc (Honours) Marketing Management,2019.1,Faculty Of Business,Semester 01,9,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,2250000
+13184,12,1250000,14,16,4,18000000,73,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.2,Faculty Of Business,Semester 01,77,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,19250000
+13185,12,185000,14,12,0,16565000,67,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.1,Faculty Of Business,Semester 01,67,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,16750000
+13186,12,0,13,16,0,12250000,49,Year 03,BSc (Honours) Operations and Logistics Management,2019.2,Faculty Of Business,Semester 01,49,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,12250000
+13187,12,2005000,10,19,8,32995000,132,Year 02,BSc (Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 01,140,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,35000000
+13188,12,250000,11,19,1,8750000,35,Year 02,BSc (Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 01,36,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9000000
+13189,12,749901,12,19,3,4750099,19,Year 02,BSc (Honours) Marketing Management,2020.1,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13190,12,1000000,13,19,4,12750000,51,Year 02,BSc (Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13191,12,750000,14,19,3,19500000,78,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 01,81,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,20250000
+13192,12,250000,15,19,1,1500000,6,Year 02,BSc (Honours) Business Communication,2020.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,1750000
+13193,12,1500000,10,12,6,24250000,97,Year 03,BSc (Honours) International Management  and Business,2019.1,Faculty Of Business,Semester 01,103,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,25750000
+13194,12,500000,11,16,2,9000000,36,Year 03,BSc (Honours) Accounting and Finance,2019.2,Faculty Of Business,Semester 01,38,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9500000
+13195,12,500000,10,16,2,33750000,135,Year 03,BSc (Honours) International Management  and Business,2019.2,Faculty Of Business,Semester 01,137,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,34250000
+13196,12,500000,11,12,2,10500000,42,Year 03,BSc (Honours) Accounting and Finance,2019.1,Faculty Of Business,Semester 01,44,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,11000000
+13197,12,750000,13,12,3,13000000,52,Year 03,BSc (Honours) Operations and Logistics Management,2019.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13198,12,0,53,10,0,2400000,8,Year 04,BSc Engineering (Hons) in Mechatronic Engineering,2018.1,Faculty Of Engineering,Semester 01,8,NSBM,2021-08-02,300000,2021,2021-07-19,7,2400000
+13199,12,0,54,10,0,600000,2,Year 04,BSc Engineering (Hons) in Electrical & Electronic Engineering,2018.1,Faculty Of Engineering,Semester 01,2,NSBM,2021-08-02,300000,2021,2021-07-19,7,600000
+13200,12,0,60,20,0,500000,5,Year 02,BSc Engineering (Hons) in Computer System Engineering - MOHE,2020.2,Faculty Of Engineering,Semester 01,5,NSBM,2021-08-02,100000,2021,2021-07-19,7,500000
+13201,12,0,47,20,0,1200000,16,Year 02,BSc in Multimedia - MOHE,2020.2,Faculty Of Engineering,Semester 01,16,NSBM,2021-08-02,75000,2021,2021-07-19,7,1200000
+13202,12,0,48,20,0,2625000,35,Year 02,Bachelor of Interior Design - MOHE,2020.2,Faculty Of Engineering,Semester 01,35,NSBM,2021-08-02,75000,2021,2021-07-19,7,2625000
+13203,12,0,26,10,0,2100000,7,Year 04,BSc Engineering (Hons) in Computer System Engineering,2018.1,Faculty Of Engineering,Semester 01,7,NSBM,2021-08-02,300000,2021,2021-07-19,7,2100000
+13306,113,0,25,23,0,4750000,19,Year 02,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 01,19,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4750000
+13307,113,0,24,23,0,4500000,18,Year 02,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 01,18,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4500000
+13308,113,250000,62,23,1,7250000,29,Year 02,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 01,30,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,7500000
+13309,113,0,23,20,0,7250000,29,Year 02,BSc (Honours) Software Engineering,2020.2,Faculty Of Computing,Semester 01,29,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,7250000
+13310,113,268037,23,23,1,47231963,189,Year 02,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 01,190,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,47500000
+13311,113,0,24,20,0,750000,3,Year 02,BSc (Honours) Computer Networks,2020.2,Faculty Of Computing,Semester 01,3,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,750000
+13312,113,0,25,20,0,750000,3,Year 02,BSc (Honours) Computer Security,2020.2,Faculty Of Computing,Semester 01,3,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,750000
+13313,113,250000,25,19,1,6250000,25,Year 02,BSc (Honours) Computer Security,2020.1,Faculty Of Computing,Semester 01,26,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,6500000
+13314,113,500000,24,19,2,4000000,16,Year 02,BSc (Honours) Computer Networks,2020.1,Faculty Of Computing,Semester 01,18,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4500000
+13315,113,2375000,23,19,8,43375000,175,Year 02,BSc (Honours) Software Engineering,2020.1,Faculty Of Computing,Semester 01,183,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,45750000
+13316,113,500000,25,12,2,4500000,18,Year 03,BSc (Honours) Computer Security,2019.1,Faculty Of Computing,Semester 01,20,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,5000000
+13317,113,2550000,23,12,10,41700000,167,Year 03,BSc (Honours) Software Engineering,2019.1,Faculty Of Computing,Semester 01,177,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,44250000
+13318,113,0,24,12,0,6500000,26,Year 03,BSc (Honours) Computer Networks,2019.1,Faculty Of Computing,Semester 01,26,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6500000
+13319,113,250000,25,16,1,7250000,29,Year 03,BSc (Honours) Computer Security,2019.2,Faculty Of Computing,Semester 01,30,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,7500000
+13320,113,0,24,16,0,6250000,25,Year 03,BSc (Honours) Computer Networks,2019.2,Faculty Of Computing,Semester 01,25,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6250000
+13321,113,850000,23,16,3,30150000,121,Year 03,BSc (Honours) Software Engineering,2019.2,Faculty Of Computing,Semester 01,124,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,31000000
+13322,113,3600000,10,12,14,22150000,89,Year 03,BSc (Honours) International Management  and Business,2019.1,Faculty Of Business,Semester 01,103,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,25750000
+13323,113,5875000,10,16,23,28375000,114,Year 03,BSc (Honours) International Management  and Business,2019.2,Faculty Of Business,Semester 01,137,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,34250000
+13324,113,2250000,11,12,9,9000000,36,Year 03,BSc (Honours) Accounting and Finance,2019.1,Faculty Of Business,Semester 01,45,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,11250000
+13325,113,252781,15,16,1,247219,1,Year 03,BSc (Honours) Business Communication,2019.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,500000
+13326,113,250000,15,12,1,500000,2,Year 03,BSc (Honours) Business Communication,2019.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,750000
+13327,113,500000,12,16,2,5000000,20,Year 03,BSc (Honours) Marketing Management,2019.2,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13328,113,250000,12,12,1,2000000,8,Year 03,BSc (Honours) Marketing Management,2019.1,Faculty Of Business,Semester 01,9,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,2250000
+13329,113,2500000,14,16,9,16750000,68,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.2,Faculty Of Business,Semester 01,77,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,19250000
+13330,113,500000,13,16,2,11750000,47,Year 03,BSc (Honours) Operations and Logistics Management,2019.2,Faculty Of Business,Semester 01,49,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,12250000
+13331,113,2500000,13,12,10,11250000,45,Year 03,BSc (Honours) Operations and Logistics Management,2019.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13332,113,2750000,11,16,11,6750000,27,Year 03,BSc (Honours) Accounting and Finance,2019.2,Faculty Of Business,Semester 01,38,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9500000
+13333,113,1935000,14,12,7,14815000,60,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.1,Faculty Of Business,Semester 01,67,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,16750000
+13334,113,2750000,14,19,11,17500000,70,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 01,81,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,20250000
+13335,113,2499901,12,19,10,3000099,12,Year 02,BSc (Honours) Marketing Management,2020.1,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13336,113,9255000,10,19,37,25745000,103,Year 02,BSc (Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 01,140,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,35000000
+13337,113,3250000,11,19,13,5750000,23,Year 02,BSc (Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 01,36,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9000000
+13338,113,4000000,13,19,16,9750000,39,Year 02,BSc (Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13339,113,1000000,15,19,4,750000,3,Year 02,BSc (Honours) Business Communication,2020.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,1750000
+13340,113,0,13,20,0,1500000,6,Year 02,BSc (Honours) Operations and Logistics Management,2020.2,Faculty Of Business,Semester 01,6,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,1500000
+13341,113,0,12,20,0,750000,3,Year 02,BSc (Honours) Marketing Management,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13342,113,0,11,20,0,750000,3,Year 02,BSc (Honours) Accounting and Finance,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13343,113,250000,10,20,1,7000000,28,Year 02,BSc (Honours) International Management  and Business,2020.2,Faculty Of Business,Semester 01,29,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,7250000
+13344,113,502500,14,23,2,12497500,50,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.3,Faculty Of Business,Semester 01,52,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,13000000
+13345,113,250000,15,23,1,500000,2,Year 02,BSc (Honours) Business Communication,2020.3,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13346,113,0,14,20,0,3000000,12,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.2,Faculty Of Business,Semester 01,12,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,3000000
+13347,113,0,15,20,0,250000,1,Year 02,BSc (Honours) Business Communication,2020.2,Faculty Of Business,Semester 01,1,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,250000
+13348,113,310000,13,23,1,10690000,43,Year 02,BSc (Honours) Operations and Logistics Management,2020.3,Faculty Of Business,Semester 01,44,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,11000000
+13349,113,556100,10,23,2,36693900,147,Year 02,BSc (Honours) International Management  and Business,2020.3,Faculty Of Business,Semester 01,149,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,37250000
+13350,113,250000,12,23,1,6250000,25,Year 02,BSc (Honours) Marketing Management,2020.3,Faculty Of Business,Semester 01,26,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,6500000
+13351,113,0,11,23,0,10000000,40,Year 02,BSc (Honours) Accounting and Finance,2020.3,Faculty Of Business,Semester 01,40,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,10000000
+13352,113,0,47,20,0,1200000,16,Year 02,BSc in Multimedia - MOHE,2020.2,Faculty Of Engineering,Semester 01,16,NSBM,2021-08-02,75000,2021,2021-07-19,7,1200000
+13353,113,300000,53,10,1,2100000,7,Year 04,BSc Engineering (Hons) in Mechatronic Engineering,2018.1,Faculty Of Engineering,Semester 01,8,NSBM,2021-08-02,300000,2021,2021-07-19,7,2400000
+13354,113,0,54,10,0,600000,2,Year 04,BSc Engineering (Hons) in Electrical & Electronic Engineering,2018.1,Faculty Of Engineering,Semester 01,2,NSBM,2021-08-02,300000,2021,2021-07-19,7,600000
+13355,113,300000,26,10,1,1800000,6,Year 04,BSc Engineering (Hons) in Computer System Engineering,2018.1,Faculty Of Engineering,Semester 01,7,NSBM,2021-08-02,300000,2021,2021-07-19,7,2100000
+13356,113,0,60,20,0,500000,5,Year 02,BSc Engineering (Hons) in Computer System Engineering - MOHE,2020.2,Faculty Of Engineering,Semester 01,5,NSBM,2021-08-02,100000,2021,2021-07-19,7,500000
+13357,113,0,48,20,0,2625000,35,Year 02,Bachelor of Interior Design - MOHE,2020.2,Faculty Of Engineering,Semester 01,35,NSBM,2021-08-02,75000,2021,2021-07-19,7,2625000
+13358,113,0,53,20,0,300000,1,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.2,Faculty Of Engineering,Semester 02,1,NSBM,2021-08-09,300000,2021,2021-07-26,7,300000
+13359,113,0,34,23,0,1500000,6,Year 02,Bachelor of Interior Design,2020.3,Faculty Of Engineering,Semester 01,6,NSBM,2021-08-16,250000,2021,2021-08-02,8,1500000
+13360,113,0,56,23,0,4250000,17,Year 02,BA (Hons) in Interior Design,2020.3,Faculty Of Engineering,Semester 01,17,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,4250000
+13361,18,268037,23,23,1,47231963,189,Year 02,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 01,190,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,47500000
+13362,18,0,25,20,0,750000,3,Year 02,BSc (Honours) Computer Security,2020.2,Faculty Of Computing,Semester 01,3,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,750000
+13363,18,0,24,20,0,750000,3,Year 02,BSc (Honours) Computer Networks,2020.2,Faculty Of Computing,Semester 01,3,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,750000
+13364,18,0,23,20,0,7250000,29,Year 02,BSc (Honours) Software Engineering,2020.2,Faculty Of Computing,Semester 01,29,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,7250000
+13365,18,250000,62,23,1,7250000,29,Year 02,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 01,30,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,7500000
+13366,18,0,25,23,0,4750000,19,Year 02,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 01,19,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4750000
+13367,18,0,24,23,0,4500000,18,Year 02,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 01,18,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4500000
+13368,18,250000,25,19,1,6250000,25,Year 02,BSc (Honours) Computer Security,2020.1,Faculty Of Computing,Semester 01,26,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,6500000
+13369,18,500000,24,19,2,4000000,16,Year 02,BSc (Honours) Computer Networks,2020.1,Faculty Of Computing,Semester 01,18,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4500000
+13370,18,2375000,23,19,8,43375000,175,Year 02,BSc (Honours) Software Engineering,2020.1,Faculty Of Computing,Semester 01,183,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,45750000
+13371,18,500000,25,12,2,4500000,18,Year 03,BSc (Honours) Computer Security,2019.1,Faculty Of Computing,Semester 01,20,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,5000000
+13372,18,850000,23,16,3,30150000,121,Year 03,BSc (Honours) Software Engineering,2019.2,Faculty Of Computing,Semester 01,124,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,31000000
+13373,18,0,24,16,0,6250000,25,Year 03,BSc (Honours) Computer Networks,2019.2,Faculty Of Computing,Semester 01,25,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6250000
+13374,18,500000,25,16,2,7000000,28,Year 03,BSc (Honours) Computer Security,2019.2,Faculty Of Computing,Semester 01,30,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,7500000
+13375,18,0,24,12,0,6500000,26,Year 03,BSc (Honours) Computer Networks,2019.1,Faculty Of Computing,Semester 01,26,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6500000
+13376,18,2550000,23,12,10,41700000,167,Year 03,BSc (Honours) Software Engineering,2019.1,Faculty Of Computing,Semester 01,177,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,44250000
+13377,18,250000,12,12,1,2000000,8,Year 03,BSc (Honours) Marketing Management,2019.1,Faculty Of Business,Semester 01,9,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,2250000
+13378,18,252781,15,16,1,247219,1,Year 03,BSc (Honours) Business Communication,2019.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,500000
+13379,18,250000,15,12,1,500000,2,Year 03,BSc (Honours) Business Communication,2019.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,750000
+13380,18,3600000,10,12,14,22150000,89,Year 03,BSc (Honours) International Management  and Business,2019.1,Faculty Of Business,Semester 01,103,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,25750000
+13381,18,5875000,10,16,23,28375000,114,Year 03,BSc (Honours) International Management  and Business,2019.2,Faculty Of Business,Semester 01,137,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,34250000
+13382,18,2250000,11,12,9,9000000,36,Year 03,BSc (Honours) Accounting and Finance,2019.1,Faculty Of Business,Semester 01,45,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,11250000
+13383,18,2750000,11,16,11,6750000,27,Year 03,BSc (Honours) Accounting and Finance,2019.2,Faculty Of Business,Semester 01,38,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9500000
+13384,18,2500000,13,12,10,11250000,45,Year 03,BSc (Honours) Operations and Logistics Management,2019.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13385,18,500000,12,16,2,5000000,20,Year 03,BSc (Honours) Marketing Management,2019.2,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13386,18,2500000,14,16,9,16750000,68,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.2,Faculty Of Business,Semester 01,77,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,19250000
+13387,18,500000,13,16,2,11750000,47,Year 03,BSc (Honours) Operations and Logistics Management,2019.2,Faculty Of Business,Semester 01,49,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,12250000
+13388,18,1935000,14,12,7,14815000,60,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.1,Faculty Of Business,Semester 01,67,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,16750000
+13389,18,4000000,13,19,16,9750000,39,Year 02,BSc (Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13390,18,2499901,12,19,10,3000099,12,Year 02,BSc (Honours) Marketing Management,2020.1,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13391,18,9255000,10,19,37,25745000,103,Year 02,BSc (Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 01,140,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,35000000
+13392,18,3250000,11,19,13,5750000,23,Year 02,BSc (Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 01,36,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9000000
+13393,18,2750000,14,19,11,17500000,70,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 01,81,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,20250000
+13394,18,1000000,15,19,4,750000,3,Year 02,BSc (Honours) Business Communication,2020.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,1750000
+13395,18,0,11,20,0,750000,3,Year 02,BSc (Honours) Accounting and Finance,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13396,18,250000,10,20,1,7000000,28,Year 02,BSc (Honours) International Management  and Business,2020.2,Faculty Of Business,Semester 01,29,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,7250000
+13397,18,250000,15,23,1,500000,2,Year 02,BSc (Honours) Business Communication,2020.3,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13398,18,502500,14,23,2,12497500,50,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.3,Faculty Of Business,Semester 01,52,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,13000000
+13399,18,0,12,20,0,750000,3,Year 02,BSc (Honours) Marketing Management,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13400,18,0,13,20,0,1500000,6,Year 02,BSc (Honours) Operations and Logistics Management,2020.2,Faculty Of Business,Semester 01,6,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,1500000
+13401,18,0,14,20,0,3000000,12,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.2,Faculty Of Business,Semester 01,12,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,3000000
+13402,18,0,15,20,0,250000,1,Year 02,BSc (Honours) Business Communication,2020.2,Faculty Of Business,Semester 01,1,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,250000
+13403,18,806100,10,23,3,36443900,146,Year 02,BSc (Honours) International Management  and Business,2020.3,Faculty Of Business,Semester 01,149,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,37250000
+13404,18,310000,13,23,1,10690000,43,Year 02,BSc (Honours) Operations and Logistics Management,2020.3,Faculty Of Business,Semester 01,44,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,11000000
+13405,18,250000,12,23,1,6250000,25,Year 02,BSc (Honours) Marketing Management,2020.3,Faculty Of Business,Semester 01,26,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,6500000
+13406,18,0,11,23,0,10000000,40,Year 02,BSc (Honours) Accounting and Finance,2020.3,Faculty Of Business,Semester 01,40,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,10000000
+13407,18,0,47,20,0,1200000,16,Year 02,BSc in Multimedia - MOHE,2020.2,Faculty Of Engineering,Semester 01,16,NSBM,2021-08-02,75000,2021,2021-07-19,7,1200000
+13408,18,0,48,20,0,2625000,35,Year 02,Bachelor of Interior Design - MOHE,2020.2,Faculty Of Engineering,Semester 01,35,NSBM,2021-08-02,75000,2021,2021-07-19,7,2625000
+13409,18,0,60,20,0,500000,5,Year 02,BSc Engineering (Hons) in Computer System Engineering - MOHE,2020.2,Faculty Of Engineering,Semester 01,5,NSBM,2021-08-02,100000,2021,2021-07-19,7,500000
+13410,18,300000,26,10,1,1800000,6,Year 04,BSc Engineering (Hons) in Computer System Engineering,2018.1,Faculty Of Engineering,Semester 01,7,NSBM,2021-08-30,300000,2021,2021-08-16,8,2100000
+13411,18,0,54,10,0,600000,2,Year 04,BSc Engineering (Hons) in Electrical & Electronic Engineering,2018.1,Faculty Of Engineering,Semester 01,2,NSBM,2021-08-30,300000,2021,2021-08-16,8,600000
+13412,18,300000,53,10,1,2100000,7,Year 04,BSc Engineering (Hons) in Mechatronic Engineering,2018.1,Faculty Of Engineering,Semester 01,8,NSBM,2021-08-30,300000,2021,2021-08-16,8,2400000
+13434,88,1390000,25,25,4,10000,0,Year 01,BSc (Honours) Computer Security,2021.2,Faculty Of Computing,Semester 01,4,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,1400000
+13435,88,0,62,25,0,350000,1,Year 01,BSc (Honours) Computer Science,2021.2,Faculty Of Computing,Semester 01,1,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,350000
+13436,88,345000,24,25,1,5000,0,Year 01,BSc (Honours) Computer Networks,2021.2,Faculty Of Computing,Semester 01,1,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,350000
+13437,88,350000,22,25,1,0,0,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2021.2,Faculty Of Computing,Semester 01,1,Victoria University,2021-09-27,350000,2021,2021-09-13,9,350000
+13438,88,665000,16,25,3,10000,0,Year 01,BSc in Management Information Systems (Special),2021.2,Faculty Of Computing,Semester 01,3,NSBM,2021-09-27,225000,2021,2021-09-13,9,675000
+13439,88,3185000,23,25,8,1015000,4,Year 01,BSc (Honours) Software Engineering,2021.2,Faculty Of Computing,Semester 01,12,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,4200000
+13440,88,665000,17,25,3,235000,1,Year 01,BSc (Honours) in Software Engineering,2021.2,Faculty Of Computing,Semester 01,4,NSBM,2021-09-27,225000,2021,2021-09-13,9,900000
+13441,88,225000,18,25,1,0,0,Year 01,BSc (Honours) in Computer Science,2021.2,Faculty Of Computing,Semester 01,1,NSBM,2021-09-27,225000,2021,2021-09-13,9,225000
+13442,88,1340000,76,25,6,910000,4,Year 01,BSc (Honours) in Data Science,2021.2,Faculty Of Computing,Semester 01,10,NSBM,2021-09-27,225000,2021,2021-09-13,9,2250000
+13443,88,0,16,12,0,12200000,61,Year 04,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,61,NSBM,2021-10-18,200000,2021,2021-10-04,10,12200000
+13444,88,0,17,12,0,2600000,13,Year 04,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,13,NSBM,2021-10-18,200000,2021,2021-10-04,10,2600000
+13445,88,50000,46,12,1,3150000,63,Year 04,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 01,64,NSBM,2021-10-18,50000,2021,2021-10-04,10,3200000
+13446,88,0,16,1,0,3450000,23,Year 04,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,23,NSBM,2021-10-18,150000,2021,2021-10-04,10,3450000
+13447,88,0,18,12,0,1400000,7,Year 04,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-10-18,200000,2021,2021-10-04,10,1400000
+13448,88,0,19,12,0,400000,2,Year 04,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2021-10-18,200000,2021,2021-10-04,10,400000
+13449,88,0,17,1,0,2400000,16,Year 04,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2021-10-18,150000,2021,2021-10-04,10,2400000
+13450,88,150000,18,1,1,750000,5,Year 04,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2021-10-18,150000,2021,2021-10-04,10,900000
+13451,88,225000,5,25,1,225000,1,Year 01,BM (Honours) in Accounting and Finance,2021.2,Faculty Of Business,Semester 01,2,NSBM,2021-09-27,225000,2021,2021-09-13,9,450000
+13452,88,689900,12,25,2,10100,0,Year 01,BSc (Honours) Marketing Management,2021.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,700000
+13453,88,445000,52,25,2,5000,0,Year 01,BM (Honours) in International Business,2021.2,Faculty Of Business,Semester 01,2,NSBM,2021-09-27,225000,2021,2021-09-13,9,450000
+13454,88,2375000,11,25,6,2175000,7,Year 01,BSc (Honours) Accounting and Finance,2021.2,Faculty Of Business,Semester 01,13,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,4550000
+13455,88,350000,14,25,1,0,0,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.2,Faculty Of Business,Semester 01,1,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,350000
+13456,88,4375000,10,25,12,1575000,5,Year 01,BSc (Honours) International Management  and Business,2021.2,Faculty Of Business,Semester 01,17,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,5950000
+13457,88,1400000,13,25,4,0,0,Year 01,BSc (Honours) Operations and Logistics Management,2021.2,Faculty Of Business,Semester 01,4,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,1400000
+13458,88,0,65,25,0,225000,1,Year 01,BBM in Tourism Hospitality and Events,2021.2,Faculty Of Business,Semester 01,1,NSBM,2021-09-27,225000,2021,2021-09-13,9,225000
+13459,88,2000000,1,25,9,700000,3,Year 01,BSc in Business Management (Special),2021.2,Faculty Of Business,Semester 01,12,NSBM,2021-09-27,225000,2021,2021-09-13,9,2700000
+13460,88,1230000,63,25,3,170000,1,Year 01,Bachelor of Business: Management and Innovation & Supply Chain and Logistics Management,2021.2,Faculty Of Business,Semester 01,4,Victoria University,2021-09-27,350000,2021,2021-09-13,9,1400000
+13461,88,345000,9,25,1,705000,2,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.2,Faculty Of Business,Semester 01,3,Victoria University,2021-09-27,350000,2021,2021-09-13,9,1050000
+13462,88,1250000,34,23,5,250000,1,Year 02,Bachelor of Interior Design,2020.3,Faculty Of Engineering,Semester 01,6,NSBM,2021-09-27,250000,2021,2021-09-13,9,1500000
+13463,88,695000,56,25,2,355000,1,Year 01,BA (Hons) in Interior Design,2021.2,Faculty Of Engineering,Semester 01,3,Plymouth University,2021-09-27,350000,2021,2021-09-13,9,1050000
+13464,88,890000,34,25,3,10000,0,Year 01,Bachelor of Interior Design,2021.2,Faculty Of Engineering,Semester 01,3,NSBM,2021-09-27,300000,2021,2021-09-13,9,900000
+13465,88,595000,53,25,2,305000,1,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2021.2,Faculty Of Engineering,Semester 01,3,NSBM,2021-09-27,300000,2021,2021-09-13,9,900000
+13466,88,4000000,56,23,16,250000,1,Year 02,BA (Hons) in Interior Design,2020.3,Faculty Of Engineering,Semester 01,17,Plymouth University,2021-09-27,250000,2021,2021-09-13,9,4250000
+13467,88,250000,34,16,1,1750000,7,Year 03,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 01,8,NSBM,2021-10-01,250000,2021,2021-09-17,9,2000000
+13468,88,3000000,53,19,10,3300000,11,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2021-10-04,300000,2021,2021-09-20,9,6300000
+13469,88,3300000,26,19,11,600000,2,Year 02,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,13,NSBM,2021-10-04,300000,2021,2021-09-20,9,3900000
+13470,88,0,53,20,0,300000,1,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.2,Faculty Of Engineering,Semester 02,1,NSBM,2021-10-04,300000,2021,2021-09-20,9,300000
+13471,88,4850000,54,19,16,1450000,5,Year 02,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2021-10-04,300000,2021,2021-09-20,9,6300000
+13472,88,2245000,71,25,10,230000,1,Year 01,BSc (Hons) in Biomedical Science,2021.2,Faculty of Science,Semester 01,11,NSBM,2021-09-27,225000,2021,2021-09-13,9,2475000
+13893,28,900000,NULL,NULL,8,0,0,Year 01,Postgraduate Diploma in Computer Networks,2021.1,Faculty Of Computing,Semester 01,8,NSBM,2021-07-25,100000,2021,2021-07-11,7,800000
+13894,28,19550000,NULL,NULL,23,0,0,Year 02,BSc (Honours) Computer Security,2020.3,Faculty Of Computing,Semester 01,23,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,5750000
+13895,28,9700000,NULL,NULL,12,0,0,Year 02,BSc (Honours) Computer Networks,2020.3,Faculty Of Computing,Semester 01,12,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,3000000
+13896,28,131827862,NULL,NULL,168,250000,1,Year 02,BSc (Honours) Software Engineering,2020.3,Faculty Of Computing,Semester 01,169,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,42250000
+13897,28,5350000,NULL,NULL,6,0,0,Year 02,BSc (Honours) Computer Science,2020.1,Faculty Of Computing,Semester 01,6,Plymouth University,2021-08-23,0,2021,2021-08-09,8,0
+13898,28,20260000,NULL,NULL,26,0,0,Year 02,BSc (Honours) Software Engineering,2020.2,Faculty Of Computing,Semester 01,26,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,6500000
+13899,28,25350000,NULL,NULL,33,0,0,Year 02,BSc (Honours) Computer Science,2020.3,Faculty Of Computing,Semester 01,33,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,8250000
+13900,28,15610000,NULL,NULL,20,0,0,Year 02,BSc (Honours) Computer Security,2020.1,Faculty Of Computing,Semester 01,20,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,5000000
+13901,28,14810000,NULL,NULL,17,0,0,Year 02,BSc (Honours) Computer Networks,2020.1,Faculty Of Computing,Semester 01,17,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,4250000
+13902,28,160215000,NULL,NULL,187,0,0,Year 02,BSc (Honours) Software Engineering,2020.1,Faculty Of Computing,Semester 01,187,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,46750000
+13903,28,2460000,NULL,NULL,3,0,0,Year 02,BSc (Honours) Computer Networks,2020.2,Faculty Of Computing,Semester 01,3,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,750000
+13904,28,3550000,NULL,NULL,4,0,0,Year 02,BSc (Honours) Computer Security,2020.2,Faculty Of Computing,Semester 01,4,Plymouth University,2021-08-23,250000,2021,2021-08-09,8,1000000
+13905,28,218050000,NULL,NULL,169,0,0,Year 03,BSc (Honours) Software Engineering,2019.1,Faculty Of Computing,Semester 01,169,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,42250000
+13906,28,30860000,NULL,NULL,24,0,0,Year 03,BSc (Honours) Computer Networks,2019.2,Faculty Of Computing,Semester 01,24,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6000000
+13907,28,31350000,NULL,NULL,24,0,0,Year 03,BSc (Honours) Computer Networks,2019.1,Faculty Of Computing,Semester 01,24,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,6000000
+13908,28,25462700,NULL,NULL,21,0,0,Year 03,BSc (Honours) Computer Security,2019.1,Faculty Of Computing,Semester 01,21,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,5250000
+13909,28,155855000,NULL,NULL,120,0,0,Year 03,BSc (Honours) Software Engineering,2019.2,Faculty Of Computing,Semester 01,120,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,30000000
+13910,28,38960000,NULL,NULL,30,0,0,Year 03,BSc (Honours) Computer Security,2019.2,Faculty Of Computing,Semester 01,30,Plymouth University,2021-08-28,250000,2021,2021-08-14,8,7500000
+13911,28,695000,NULL,NULL,2,0,0,Year 01,BSc (Honours) Computer Networks,2021.2,Faculty Of Computing,Semester 01,2,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,700000
+13912,28,6975000,NULL,NULL,20,350000,1,Year 01,BSc (Honours) Software Engineering,2021.2,Faculty Of Computing,Semester 01,21,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,7350000
+13913,28,225000,NULL,NULL,1,0,0,Year 01,BSc (Honours) in Computer Science,2021.2,Faculty Of Computing,Semester 01,1,NSBM,2021-10-05,225000,2021,2021-09-13,9,225000
+13914,28,350000,NULL,NULL,1,0,0,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2021.2,Faculty Of Computing,Semester 01,1,Victoria University,2021-10-05,350000,2021,2021-09-13,9,350000
+13915,28,1735000,NULL,NULL,5,0,0,Year 01,BSc (Honours) Computer Security,2021.2,Faculty Of Computing,Semester 01,5,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,1750000
+13916,28,700000,NULL,NULL,2,0,0,Year 01,BSc (Honours) Computer Science,2021.2,Faculty Of Computing,Semester 01,2,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,700000
+13917,28,670000,NULL,NULL,3,225000,1,Year 01,BSc (Honours) in Software Engineering,2021.2,Faculty Of Computing,Semester 01,4,NSBM,2021-10-05,225000,2021,2021-09-13,9,900000
+13918,28,890000,NULL,NULL,4,0,0,Year 01,BSc in Management Information Systems (Special),2021.2,Faculty Of Computing,Semester 01,4,NSBM,2021-10-05,225000,2021,2021-09-13,9,900000
+13919,28,2965000,NULL,NULL,12,225000,1,Year 01,BSc (Honours) in Data Science,2021.2,Faculty Of Computing,Semester 01,13,NSBM,2021-10-05,225000,2021,2021-09-21,9,2925000
+13920,28,44650000,NULL,NULL,64,0,0,Year 04,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 01,64,NSBM,2021-10-18,50000,2021,2021-10-04,10,3200000
+13921,28,150000,NULL,NULL,1,750000,5,Year 04,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2021-10-18,150000,2021,2021-10-04,10,900000
+13922,28,0,NULL,NULL,0,2400000,16,Year 04,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2021-10-18,150000,2021,2021-10-04,10,2400000
+13923,28,8410000,NULL,NULL,7,0,0,Year 04,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-10-18,200000,2021,2021-10-04,10,1400000
+13924,28,15620000,NULL,NULL,13,0,0,Year 04,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,13,NSBM,2021-10-18,200000,2021,2021-10-04,10,2600000
+13925,28,0,NULL,NULL,0,3450000,23,Year 04,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,23,NSBM,2021-10-18,150000,2021,2021-10-04,10,3450000
+13926,28,73130000,NULL,NULL,61,0,0,Year 04,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,61,NSBM,2021-10-18,200000,2021,2021-10-04,10,12200000
+13927,28,2400000,NULL,NULL,2,0,0,Year 04,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2021-10-18,200000,2021,2021-10-04,10,400000
+13928,28,2220000,NULL,NULL,15,250000,2,Year 01,Master of Business Studies (English Medium),2021.1,Faculty Of Business,Semester 01,17,NSBM,2021-07-25,125000,2021,2021-07-11,7,2125000
+13929,28,1995000,NULL,NULL,14,0,0,Year 01,Master of Business Administration,2021.1,Faculty Of Business,Semester 01,14,NSBM,2021-07-25,125000,2021,2021-07-11,7,1750000
+13930,28,385000,NULL,NULL,4,0,0,Year 01,Master of Business Studies (Alumni NSBM) (English Medium),2021.1,Faculty Of Business,Semester 01,4,NSBM,2021-07-25,100000,2021,2021-07-11,7,400000
+13931,28,1370000,NULL,NULL,13,100000,1,Year 01,Master of Business Administration (Alumni NSBM),2021.1,Faculty Of Business,Semester 01,14,NSBM,2021-07-25,100000,2021,2021-07-11,7,1400000
+13932,28,2790000,NULL,NULL,27,0,0,Year 01,Postgraduate Diploma in Business Management,2021.1,Faculty Of Business,Semester 01,27,NSBM,2021-07-25,100000,2021,2021-07-11,7,2700000
+13933,28,3785000,NULL,NULL,21,750000,6,Year 01,Master of Business Studies (Sinhala Medium),2021.1,Faculty Of Business,Semester 01,27,NSBM,2021-07-25,125000,2021,2021-07-11,7,3375000
+13934,28,181815000,NULL,NULL,141,0,0,Year 03,BSc (Honours) International Management  and Business,2019.2,Faculty Of Business,Semester 01,141,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,35250000
+13935,28,59292800,NULL,NULL,45,0,0,Year 03,BSc (Honours) Accounting and Finance,2019.1,Faculty Of Business,Semester 01,45,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,11250000
+13936,28,54030000,NULL,NULL,39,0,0,Year 03,BSc (Honours) Accounting and Finance,2019.2,Faculty Of Business,Semester 01,39,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9750000
+13937,28,72830000,NULL,NULL,56,0,0,Year 03,BSc (Honours) Operations and Logistics Management,2019.1,Faculty Of Business,Semester 01,56,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,14000000
+13938,28,65760000,NULL,NULL,50,0,0,Year 03,BSc (Honours) Operations and Logistics Management,2019.2,Faculty Of Business,Semester 01,50,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,12500000
+13939,28,88817484,NULL,NULL,68,0,0,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.1,Faculty Of Business,Semester 01,68,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,17000000
+13940,28,103582667,NULL,NULL,78,0,0,Year 03,"BSc (Honours) Events, Tourism and Hospitality Management",2019.2,Faculty Of Business,Semester 01,78,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,19500000
+13941,28,10550000,NULL,NULL,8,0,0,Year 03,BSc (Honours) Marketing Management,2019.1,Faculty Of Business,Semester 01,8,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,2000000
+13942,28,29670000,NULL,NULL,23,0,0,Year 03,BSc (Honours) Marketing Management,2019.2,Faculty Of Business,Semester 01,23,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5750000
+13943,28,4050000,NULL,NULL,3,0,0,Year 03,BSc (Honours) Business Communication,2019.1,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,750000
+13944,28,2702781,NULL,NULL,2,0,0,Year 03,BSc (Honours) Business Communication,2019.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,500000
+13945,28,134635000,NULL,NULL,104,0,0,Year 03,BSc (Honours) International Management  and Business,2019.1,Faculty Of Business,Semester 01,104,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,26000000
+13946,28,68223000,NULL,NULL,81,0,0,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.1,Faculty Of Business,Semester 01,81,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,20250000
+13947,28,47410000,NULL,NULL,55,0,0,Year 02,BSc (Honours) Operations and Logistics Management,2020.1,Faculty Of Business,Semester 01,55,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,13750000
+13948,28,19703357,NULL,NULL,22,0,0,Year 02,BSc (Honours) Marketing Management,2020.1,Faculty Of Business,Semester 01,22,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,5500000
+13949,28,30575000,NULL,NULL,36,0,0,Year 02,BSc (Honours) Accounting and Finance,2020.1,Faculty Of Business,Semester 01,36,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,9000000
+13950,28,5950000,NULL,NULL,7,0,0,Year 02,BSc (Honours) Business Communication,2020.1,Faculty Of Business,Semester 01,7,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,1750000
+13951,28,119715000,NULL,NULL,139,0,0,Year 02,BSc (Honours) International Management  and Business,2020.1,Faculty Of Business,Semester 01,139,Plymouth University,2021-08-02,250000,2021,2021-07-19,7,34750000
+13952,28,118156100,NULL,NULL,144,0,0,Year 02,BSc (Honours) International Management  and Business,2020.3,Faculty Of Business,Semester 01,144,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,36000000
+13953,28,2550000,NULL,NULL,3,0,0,Year 02,BSc (Honours) Accounting and Finance,2020.2,Faculty Of Business,Semester 01,3,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,750000
+13954,28,1700000,NULL,NULL,2,0,0,Year 02,BSc (Honours) Marketing Management,2020.2,Faculty Of Business,Semester 01,2,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,500000
+13955,28,2250000,NULL,NULL,4,0,0,Year 02,BSc (Honours) Business Communication,2020.3,Faculty Of Business,Semester 01,4,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,1000000
+13956,28,5260000,NULL,NULL,6,0,0,Year 02,BSc (Honours) Operations and Logistics Management,2020.2,Faculty Of Business,Semester 01,6,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,1500000
+13957,28,550000,NULL,NULL,1,0,0,Year 02,BSc (Honours) Business Communication,2020.2,Faculty Of Business,Semester 01,1,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,250000
+13958,28,25110000,NULL,NULL,30,0,0,Year 02,BSc (Honours) International Management  and Business,2020.2,Faculty Of Business,Semester 01,30,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,7500000
+13959,28,30628372,NULL,NULL,39,0,0,Year 02,BSc (Honours) Accounting and Finance,2020.3,Faculty Of Business,Semester 01,39,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,9750000
+13960,28,22725000,NULL,NULL,27,0,0,Year 02,BSc (Honours) Marketing Management,2020.3,Faculty Of Business,Semester 01,27,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,6750000
+13961,28,38060100,NULL,NULL,47,0,0,Year 02,BSc (Honours) Operations and Logistics Management,2020.3,Faculty Of Business,Semester 01,47,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,11750000
+13962,28,43073000,NULL,NULL,53,250000,1,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.3,Faculty Of Business,Semester 01,54,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,13500000
+13963,28,6710000,NULL,NULL,9,0,0,Year 02,"BSc (Honours) Events, Tourism and Hospitality Management",2020.2,Faculty Of Business,Semester 01,9,Plymouth University,2021-08-16,250000,2021,2021-08-02,8,2250000
+13964,28,1045000,NULL,NULL,3,0,0,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.2,Faculty Of Business,Semester 01,3,Victoria University,2021-10-05,350000,2021,2021-09-13,9,1050000
+13965,28,2795000,NULL,NULL,8,0,0,Year 01,BSc (Honours) Operations and Logistics Management,2021.2,Faculty Of Business,Semester 01,8,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,2800000
+13966,28,3350000,NULL,NULL,15,675000,3,Year 01,BSc in Business Management (Special),2021.2,Faculty Of Business,Semester 01,18,NSBM,2021-10-05,225000,2021,2021-09-13,9,4050000
+13967,28,445000,NULL,NULL,2,225000,1,Year 01,BM (Honours) in International Business,2021.2,Faculty Of Business,Semester 01,3,NSBM,2021-10-05,225000,2021,2021-09-13,9,675000
+13968,28,895000,NULL,NULL,4,0,0,Year 01,BM (Honours) in Accounting and Finance,2021.2,Faculty Of Business,Semester 01,4,NSBM,2021-10-05,225000,2021,2021-09-13,9,900000
+13969,28,1614900,NULL,NULL,4,350000,1,Year 01,BSc (Honours) Marketing Management,2021.2,Faculty Of Business,Semester 01,5,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,1750000
+13970,28,7665000,NULL,NULL,22,350000,1,Year 01,BSc (Honours) International Management  and Business,2021.2,Faculty Of Business,Semester 01,23,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,8050000
+13971,28,1925000,NULL,NULL,4,700000,2,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.2,Faculty Of Business,Semester 01,6,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,2100000
+13972,28,4860000,NULL,NULL,13,0,0,Year 01,BSc (Honours) Accounting and Finance,2021.2,Faculty Of Business,Semester 01,13,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,4550000
+13973,28,1580000,NULL,NULL,4,350000,1,Year 01,Bachelor of Business: Management and Innovation & Supply Chain and Logistics Management,2021.2,Faculty Of Business,Semester 01,5,Victoria University,2021-10-05,350000,2021,2021-09-13,9,1750000
+13974,28,23790000,NULL,NULL,22,0,0,Year 03,Bachelor of Interior Design,2019.1,Faculty Of Engineering,Semester 01,22,NSBM,2021-07-20,250000,2021,2021-07-06,7,5500000
+13975,28,3750000,NULL,NULL,16,0,0,Year 02,BSc in Multimedia - MOHE,2020.2,Faculty Of Engineering,Semester 01,16,NSBM,2021-08-02,75000,2021,2021-07-19,7,1200000
+13976,28,7275000,NULL,NULL,35,0,0,Year 02,Bachelor of Interior Design - MOHE,2020.2,Faculty Of Engineering,Semester 01,35,NSBM,2021-08-02,75000,2021,2021-07-19,7,2625000
+13977,28,1700000,NULL,NULL,5,0,0,Year 02,BSc Engineering (Hons) in Computer System Engineering - MOHE,2020.2,Faculty Of Engineering,Semester 01,5,NSBM,2021-08-02,100000,2021,2021-07-19,7,500000
+13978,28,0,NULL,NULL,0,600000,2,Year 04,BSc Engineering (Hons) in Electrical & Electronic Engineering,2018.1,Faculty Of Engineering,Semester 01,2,NSBM,2021-08-30,300000,2021,2021-08-16,8,600000
+13979,28,300000,NULL,NULL,1,1800000,6,Year 04,BSc Engineering (Hons) in Computer System Engineering,2018.1,Faculty Of Engineering,Semester 01,7,NSBM,2021-08-30,300000,2021,2021-08-16,8,2100000
+13980,28,300000,NULL,NULL,1,2400000,8,Year 04,BSc Engineering (Hons) in Mechatronic Engineering,2018.1,Faculty Of Engineering,Semester 01,9,NSBM,2021-08-30,300000,2021,2021-08-16,8,2700000
+13981,28,9500000,NULL,NULL,7,0,0,Year 03,BSc in Multimedia,2019.1,Faculty Of Engineering,Semester 02,7,NSBM,2021-09-15,250000,2021,2021-09-01,9,1750000
+13982,28,8400000,NULL,NULL,11,0,0,Year 02,BSc in Multimedia,2020.1,Faculty Of Engineering,Semester 02,11,NSBM,2021-09-20,250000,2021,2021-09-06,9,2750000
+13983,28,4650000,NULL,NULL,6,0,0,Year 02,BSc in Multimedia,2020.2,Faculty Of Engineering,Semester 02,6,NSBM,2021-09-20,250000,2021,2021-09-06,9,1500000
+13984,28,25375000,NULL,NULL,27,0,0,Year 02,Bachelor of Interior Design,2020.1,Faculty Of Engineering,Semester 02,27,NSBM,2021-09-20,250000,2021,2021-09-06,9,6750000
+13985,28,1190000,NULL,NULL,4,0,0,Year 01,Bachelor of Interior Design,2021.2,Faculty Of Engineering,Semester 01,4,NSBM,2021-10-05,300000,2021,2021-09-13,9,1200000
+13986,28,600000,NULL,NULL,2,0,0,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2021.2,Faculty Of Engineering,Semester 01,2,NSBM,2021-10-05,300000,2021,2021-09-13,9,600000
+13987,28,300000,NULL,NULL,1,0,0,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.2,Faculty Of Engineering,Semester 01,1,NSBM,2021-10-05,300000,2021,2021-09-13,9,300000
+13988,28,4250000,NULL,NULL,6,0,0,Year 02,Bachelor of Interior Design,2020.3,Faculty Of Engineering,Semester 01,6,NSBM,2021-09-27,250000,2021,2021-09-13,9,1500000
+13989,28,1745000,NULL,NULL,5,0,0,Year 01,BA (Hons) in Interior Design,2021.2,Faculty Of Engineering,Semester 01,5,Plymouth University,2021-10-05,350000,2021,2021-09-13,9,1750000
+13990,28,15200000,NULL,NULL,18,0,0,Year 02,BA (Hons) in Interior Design,2020.3,Faculty Of Engineering,Semester 01,18,Plymouth University,2021-09-27,250000,2021,2021-09-13,9,4500000
+13991,28,7520000,NULL,NULL,7,0,0,Year 03,Bachelor of Interior Design,2019.2,Faculty Of Engineering,Semester 01,7,NSBM,2021-10-01,250000,2021,2021-09-17,9,1750000
+13992,28,13800000,NULL,NULL,12,0,0,Year 02,BSc Engineering (Hons) in Computer System Engineering,2020.1,Faculty Of Engineering,Semester 02,12,NSBM,2021-10-04,300000,2021,2021-09-20,9,3600000
+13993,28,25310000,NULL,NULL,22,0,0,Year 02,BSc Engineering (Hons) in Electrical & Electronic Engineering,2020.1,Faculty Of Engineering,Semester 02,22,NSBM,2021-10-04,300000,2021,2021-09-20,9,6600000
+13994,28,21765000,NULL,NULL,21,0,0,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.1,Faculty Of Engineering,Semester 02,21,NSBM,2021-10-04,300000,2021,2021-09-20,9,6300000
+13995,28,900000,NULL,NULL,1,0,0,Year 02,BSc Engineering (Hons) in Mechatronic Engineering,2020.2,Faculty Of Engineering,Semester 02,1,NSBM,2021-10-04,300000,2021,2021-09-20,9,300000
+13996,28,3590000,NULL,NULL,16,0,0,Year 01,BSc (Hons) in Biomedical Science,2021.2,Faculty of Science,Semester 01,16,NSBM,2021-10-05,225000,2021,2021-09-13,9,3600000
+13997,28,225000,NULL,NULL,1,0,0,Year 01,BSc (Hons) Public Health and Nutrition,2021.2,Faculty of Science,Semester 01,1,NSBM,2021-10-05,225000,2021,2021-09-13,9,225000
+14222,10,0,16,1,0,3450000,23,Year 04,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,23,NSBM,2021-10-18,150000,2021,2021-10-04,10,3450000
+14223,10,300000,18,1,2,600000,4,Year 04,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2021-10-18,150000,2021,2021-10-04,10,900000
+14224,10,300000,17,1,2,2100000,14,Year 04,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2021-10-18,150000,2021,2021-10-04,10,2400000
+14225,10,0,19,12,0,400000,2,Year 04,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2021-10-18,200000,2021,2021-10-04,10,400000
+14226,10,0,18,12,0,1400000,7,Year 04,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-10-18,200000,2021,2021-10-04,10,1400000
+14227,10,0,17,12,0,2600000,13,Year 04,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,13,NSBM,2021-10-18,200000,2021,2021-10-04,10,2600000
+14228,10,800000,16,12,4,11400000,57,Year 04,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,61,NSBM,2021-10-18,200000,2021,2021-10-04,10,12200000
+14229,10,50000,46,12,1,3150000,63,Year 04,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 01,64,NSBM,2021-10-18,50000,2021,2021-10-04,10,3200000
+14230,10,0,57,24,0,7000000,35,Year 01,BSc (Honours) in Software Engineering - MOHE,2021.1,Faculty Of Computing,Semester 02,35,NSBM,2021-11-01,200000,2021,2021-10-18,10,7000000
+14231,10,1080000,25,24,3,11520000,33,Year 01,BSc (Honours) Computer Security,2021.1,Faculty Of Computing,Semester 02,36,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,12600000
+14232,10,4510000,62,24,13,7390000,21,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 02,34,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,11900000
+14233,10,0,59,24,0,1600000,8,Year 01,BSc (Honours) in Computer Networks - MOHE,2021.1,Faculty Of Computing,Semester 02,8,NSBM,2021-11-01,200000,2021,2021-10-18,10,1600000
+14234,10,0,19,24,0,225000,1,Year 01,BSc (Honours) in Computer Networks,2021.1,Faculty Of Computing,Semester 02,1,NSBM,2021-11-01,225000,2021,2021-10-18,10,225000
+14235,10,350000,22,24,1,3850000,11,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2021.1,Faculty Of Computing,Semester 02,12,Victoria University,2021-11-01,350000,2021,2021-10-18,10,4200000
+14236,10,1555000,18,24,7,3845000,17,Year 01,BSc (Honours) in Computer Science,2021.1,Faculty Of Computing,Semester 02,24,NSBM,2021-11-01,225000,2021,2021-10-18,10,5400000
+14237,10,11606000,23,24,32,61544000,177,Year 01,BSc (Honours) Software Engineering,2021.1,Faculty Of Computing,Semester 02,209,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,73150000
+14238,10,3856000,17,24,17,7394000,33,Year 01,BSc (Honours) in Software Engineering,2021.1,Faculty Of Computing,Semester 02,50,NSBM,2021-11-01,225000,2021,2021-10-18,10,11250000
+14239,10,0,46,24,0,12600000,63,Year 01,BSc in Management Information Systems (Special) - MOHE,2021.1,Faculty Of Computing,Semester 02,63,NSBM,2021-11-01,200000,2021,2021-10-18,10,12600000
+14240,10,1550000,16,24,7,5650000,25,Year 01,BSc in Management Information Systems (Special),2021.1,Faculty Of Computing,Semester 02,32,NSBM,2021-11-01,225000,2021,2021-10-18,10,7200000
+14241,10,0,58,24,0,200000,1,Year 01,BSc (Honours) in Computer Science - MOHE,2021.1,Faculty Of Computing,Semester 02,1,NSBM,2021-11-01,200000,2021,2021-10-18,10,200000
+14242,10,1390000,24,24,4,7010000,20,Year 01,BSc (Honours) Computer Networks,2021.1,Faculty Of Computing,Semester 02,24,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,8400000
+14243,10,1625000,22,19,5,4700000,18,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.1,Faculty Of Computing,Semester 02,23,Victoria University,2021-11-02,275000,2021,2021-10-19,10,6325000
+14244,10,0,22,16,0,2475000,9,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.2,Faculty Of Computing,Semester 01,9,Victoria University,2021-11-05,275000,2021,2021-10-22,10,2475000
+14245,10,40000,22,12,0,4360000,16,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.1,Faculty Of Computing,Semester 02,16,Victoria University,2021-11-05,275000,2021,2021-10-22,10,4400000
+14246,10,200000,16,19,1,10000000,50,Year 03,BSc in Management Information Systems (Special),2020.1,Faculty Of Computing,Semester 01,51,NSBM,2021-11-08,200000,2021,2021-10-25,10,10200000
+14247,10,0,17,19,0,5600000,28,Year 03,BSc (Honours) in Software Engineering,2020.1,Faculty Of Computing,Semester 01,28,NSBM,2021-11-08,200000,2021,2021-10-25,10,5600000
+14248,10,0,18,19,0,1400000,7,Year 03,BSc (Honours) in Computer Science,2020.1,Faculty Of Computing,Semester 01,7,NSBM,2021-11-08,200000,2021,2021-10-25,10,1400000
+14249,10,0,18,16,0,1000000,5,Year 03,BSc (Honours) in Computer Science,2019.2,Faculty Of Computing,Semester 01,5,NSBM,2021-11-08,200000,2021,2021-10-25,10,1000000
+14250,10,200000,17,16,1,3400000,17,Year 03,BSc (Honours) in Software Engineering,2019.2,Faculty Of Computing,Semester 01,18,NSBM,2021-11-08,200000,2021,2021-10-25,10,3600000
+14251,10,0,16,16,0,6000000,30,Year 03,BSc in Management Information Systems (Special),2019.2,Faculty Of Computing,Semester 01,30,NSBM,2021-11-08,200000,2021,2021-10-25,10,6000000
+14252,10,0,45,24,0,31400000,157,Year 01,BM Honours in Accounting & Finance - MOHE,2021.1,Faculty Of Business,Semester 02,157,NSBM,2021-11-01,200000,2021,2021-10-18,10,31400000
+14253,10,0,6,24,0,300000,1,Year 01,BA in Business Communication,2021.1,Faculty Of Business,Semester 02,1,NSBM,2021-11-01,300000,2021,2021-10-18,10,300000
+14254,10,6205000,5,24,28,12020000,53,Year 01,BM (Honours) in Accounting and Finance,2021.1,Faculty Of Business,Semester 02,81,NSBM,2021-11-01,225000,2021,2021-10-18,10,18225000
+14255,10,1105000,65,24,5,1145000,5,Year 01,BBM in Tourism Hospitality and Events,2021.1,Faculty Of Business,Semester 02,10,NSBM,2021-11-01,225000,2021,2021-10-18,10,2250000
+14256,10,2325000,52,24,10,4200000,19,Year 01,BM (Honours) in International Business,2021.1,Faculty Of Business,Semester 02,29,NSBM,2021-11-01,225000,2021,2021-10-18,10,6525000
+14257,10,0,61,24,0,22800000,114,Year 01,BSc in Business Management (Project Management) - MOHE,2021.1,Faculty Of Business,Semester 02,114,NSBM,2021-11-01,200000,2021,2021-10-18,10,22800000
+14258,10,3130000,14,24,9,9820000,28,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.1,Faculty Of Business,Semester 02,37,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,12950000
+14259,10,2090000,11,24,5,11560000,34,Year 01,BSc (Honours) Accounting and Finance,2021.1,Faculty Of Business,Semester 02,39,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,13650000
+14260,10,345000,15,24,1,1755000,5,Year 01,BSc (Honours) Business Communication,2021.1,Faculty Of Business,Semester 02,6,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,2100000
+14261,10,1985000,12,24,5,9915000,29,Year 01,BSc (Honours) Marketing Management,2021.1,Faculty Of Business,Semester 02,34,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,11900000
+14262,10,1049630,13,24,3,15750370,45,Year 01,BSc (Honours) Operations and Logistics Management,2021.1,Faculty Of Business,Semester 02,48,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,16800000
+14263,10,2780000,9,24,8,2120000,6,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.1,Faculty Of Business,Semester 02,14,Victoria University,2021-11-01,350000,2021,2021-10-18,10,4900000
+14264,10,1380000,63,24,4,1770000,5,Year 01,Bachelor of Business: Management and Innovation & Supply Chain and Logistics Management,2021.1,Faculty Of Business,Semester 02,9,Victoria University,2021-11-01,350000,2021,2021-10-18,10,3150000
+14265,10,13510000,1,24,61,32615000,144,Year 01,BSc in Business Management (Special),2021.1,Faculty Of Business,Semester 02,205,NSBM,2021-11-01,225000,2021,2021-10-18,10,46125000
+14266,10,10414936,10,24,29,41035064,118,Year 01,BSc (Honours) International Management  and Business,2021.1,Faculty Of Business,Semester 02,147,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,51450000
+14267,10,0,53,12,0,1800000,6,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14268,10,300000,54,12,1,1500000,5,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14269,10,2340000,56,24,6,7810000,23,Year 01,BA (Hons) in Interior Design,2021.1,Faculty Of Engineering,Semester 02,29,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,10150000
+14270,10,915000,20,24,3,3885000,13,Year 01,BSc in Multimedia,2021.1,Faculty Of Engineering,Semester 02,16,NSBM,2021-11-01,300000,2021,2021-10-18,10,4800000
+14271,10,895000,26,24,3,2705000,9,Year 01,BSc Engineering (Hons) in Computer System Engineering,2021.1,Faculty Of Engineering,Semester 02,12,NSBM,2021-11-01,300000,2021,2021-10-18,10,3600000
+14272,10,1200000,34,24,4,2100000,7,Year 01,Bachelor of Interior Design,2021.1,Faculty Of Engineering,Semester 02,11,NSBM,2021-11-01,300000,2021,2021-10-18,10,3300000
+14273,10,295000,54,24,1,8105000,27,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.1,Faculty Of Engineering,Semester 02,28,NSBM,2021-11-01,300000,2021,2021-10-18,10,8400000
+14274,10,590000,53,24,2,7510000,25,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2021.1,Faculty Of Engineering,Semester 02,27,NSBM,2021-11-01,300000,2021,2021-10-18,10,8100000
+14275,10,0,26,12,0,1800000,6,Year 03,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14276,10,0,71,24,0,17775000,79,Year 01,BSc (Hons) in Biomedical Science,2021.1,Faculty of Science,Semester 02,79,NSBM,2021-11-01,225000,2021,2021-10-18,10,17775000
+14277,10,0,72,24,0,1350000,6,Year 01,BSc (Hons) Public Health and Nutrition,2021.1,Faculty of Science,Semester 02,6,NSBM,2021-11-01,225000,2021,2021-10-18,10,1350000
+14278,24,150000,16,1,1,3300000,22,Year 04,BSc in Management Information Systems (Special),2018.2,Faculty Of Computing,Semester 01,23,NSBM,2021-10-18,150000,2021,2021-10-04,10,3450000
+14279,24,300000,18,1,2,600000,4,Year 04,BSc (Honours) in Computer Science,2018.2,Faculty Of Computing,Semester 01,6,NSBM,2021-10-18,150000,2021,2021-10-04,10,900000
+14280,24,300000,17,1,2,2100000,14,Year 04,BSc (Honours) in Software Engineering,2018.2,Faculty Of Computing,Semester 01,16,NSBM,2021-10-18,150000,2021,2021-10-04,10,2400000
+14281,24,0,19,12,0,400000,2,Year 04,BSc (Honours) in Computer Networks,2019.1,Faculty Of Computing,Semester 01,2,NSBM,2021-10-18,200000,2021,2021-10-04,10,400000
+14282,24,0,18,12,0,1400000,7,Year 04,BSc (Honours) in Computer Science,2019.1,Faculty Of Computing,Semester 01,7,NSBM,2021-10-18,200000,2021,2021-10-04,10,1400000
+14283,24,200000,17,12,1,2400000,12,Year 04,BSc (Honours) in Software Engineering,2019.1,Faculty Of Computing,Semester 01,13,NSBM,2021-10-18,200000,2021,2021-10-04,10,2600000
+14284,24,1400000,16,12,7,10800000,54,Year 04,BSc in Management Information Systems (Special),2019.1,Faculty Of Computing,Semester 01,61,NSBM,2021-10-18,200000,2021,2021-10-04,10,12200000
+14285,24,50000,46,12,1,3150000,63,Year 04,BSc in Management Information Systems (Special) - MOHE,2019.1,Faculty Of Computing,Semester 01,64,NSBM,2021-10-18,50000,2021,2021-10-04,10,3200000
+14286,24,0,59,24,0,1600000,8,Year 01,BSc (Honours) in Computer Networks - MOHE,2021.1,Faculty Of Computing,Semester 02,8,NSBM,2021-11-01,200000,2021,2021-10-18,10,1600000
+14287,24,1550000,16,24,7,5650000,25,Year 01,BSc in Management Information Systems (Special),2021.1,Faculty Of Computing,Semester 02,32,NSBM,2021-11-01,225000,2021,2021-10-18,10,7200000
+14288,24,350000,22,24,1,3850000,11,Year 01,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2021.1,Faculty Of Computing,Semester 02,12,Victoria University,2021-11-01,350000,2021,2021-10-18,10,4200000
+14289,24,13334900,23,24,37,59815100,172,Year 01,BSc (Honours) Software Engineering,2021.1,Faculty Of Computing,Semester 02,209,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,73150000
+14290,24,1390000,24,24,4,7010000,20,Year 01,BSc (Honours) Computer Networks,2021.1,Faculty Of Computing,Semester 02,24,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,8400000
+14291,24,1080000,25,24,3,11520000,33,Year 01,BSc (Honours) Computer Security,2021.1,Faculty Of Computing,Semester 02,36,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,12600000
+14292,24,4860000,62,24,14,7040000,20,Year 01,BSc (Honours) Computer Science,2021.1,Faculty Of Computing,Semester 02,34,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,11900000
+14293,24,0,58,24,0,200000,1,Year 01,BSc (Honours) in Computer Science - MOHE,2021.1,Faculty Of Computing,Semester 02,1,NSBM,2021-11-01,200000,2021,2021-10-18,10,200000
+14294,24,0,57,24,0,7000000,35,Year 01,BSc (Honours) in Software Engineering - MOHE,2021.1,Faculty Of Computing,Semester 02,35,NSBM,2021-11-01,200000,2021,2021-10-18,10,7000000
+14295,24,0,46,24,0,12600000,63,Year 01,BSc in Management Information Systems (Special) - MOHE,2021.1,Faculty Of Computing,Semester 02,63,NSBM,2021-11-01,200000,2021,2021-10-18,10,12600000
+14296,24,0,19,24,0,225000,1,Year 01,BSc (Honours) in Computer Networks,2021.1,Faculty Of Computing,Semester 02,1,NSBM,2021-11-01,225000,2021,2021-10-18,10,225000
+14297,24,1555000,18,24,7,3845000,17,Year 01,BSc (Honours) in Computer Science,2021.1,Faculty Of Computing,Semester 02,24,NSBM,2021-11-01,225000,2021,2021-10-18,10,5400000
+14298,24,3856000,17,24,17,7394000,33,Year 01,BSc (Honours) in Software Engineering,2021.1,Faculty Of Computing,Semester 02,50,NSBM,2021-11-01,225000,2021,2021-10-18,10,11250000
+14299,24,1625000,22,19,5,4700000,18,Year 02,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2020.1,Faculty Of Computing,Semester 02,23,Victoria University,2021-11-02,275000,2021,2021-10-19,10,6325000
+14300,24,40000,22,12,0,4360000,16,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.1,Faculty Of Computing,Semester 02,16,Victoria University,2021-11-05,275000,2021,2021-10-22,10,4400000
+14301,24,0,22,16,0,2475000,9,Year 03,Bachelor of Information Technology (NBIT): major in Web and Mobile Application Development,2019.2,Faculty Of Computing,Semester 01,9,Victoria University,2021-11-05,275000,2021,2021-10-22,10,2475000
+14302,24,0,16,16,0,6000000,30,Year 03,BSc in Management Information Systems (Special),2019.2,Faculty Of Computing,Semester 01,30,NSBM,2021-11-08,200000,2021,2021-10-25,10,6000000
+14303,24,0,18,16,0,1000000,5,Year 03,BSc (Honours) in Computer Science,2019.2,Faculty Of Computing,Semester 01,5,NSBM,2021-11-08,200000,2021,2021-10-25,10,1000000
+14304,24,200000,17,16,1,3400000,17,Year 03,BSc (Honours) in Software Engineering,2019.2,Faculty Of Computing,Semester 01,18,NSBM,2021-11-08,200000,2021,2021-10-25,10,3600000
+14305,24,0,18,19,0,1400000,7,Year 03,BSc (Honours) in Computer Science,2020.1,Faculty Of Computing,Semester 01,7,NSBM,2021-11-08,200000,2021,2021-10-25,10,1400000
+14306,24,0,17,19,0,5600000,28,Year 03,BSc (Honours) in Software Engineering,2020.1,Faculty Of Computing,Semester 01,28,NSBM,2021-11-08,200000,2021,2021-10-25,10,5600000
+14307,24,200000,16,19,1,10000000,50,Year 03,BSc in Management Information Systems (Special),2020.1,Faculty Of Computing,Semester 01,51,NSBM,2021-11-08,200000,2021,2021-10-25,10,10200000
+14308,24,6205000,5,24,28,12020000,53,Year 01,BM (Honours) in Accounting and Finance,2021.1,Faculty Of Business,Semester 02,81,NSBM,2021-11-01,225000,2021,2021-10-18,10,18225000
+14309,24,2325000,52,24,10,4200000,19,Year 01,BM (Honours) in International Business,2021.1,Faculty Of Business,Semester 02,29,NSBM,2021-11-01,225000,2021,2021-10-18,10,6525000
+14310,24,1105000,65,24,5,1145000,5,Year 01,BBM in Tourism Hospitality and Events,2021.1,Faculty Of Business,Semester 02,10,NSBM,2021-11-01,225000,2021,2021-10-18,10,2250000
+14311,24,0,61,24,0,22800000,114,Year 01,BSc in Business Management (Project Management) - MOHE,2021.1,Faculty Of Business,Semester 02,114,NSBM,2021-11-01,200000,2021,2021-10-18,10,22800000
+14312,24,0,45,24,0,31400000,157,Year 01,BM Honours in Accounting & Finance - MOHE,2021.1,Faculty Of Business,Semester 02,157,NSBM,2021-11-01,200000,2021,2021-10-18,10,31400000
+14313,24,345000,15,24,1,1755000,5,Year 01,BSc (Honours) Business Communication,2021.1,Faculty Of Business,Semester 02,6,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,2100000
+14314,24,10464936,10,24,29,40985064,118,Year 01,BSc (Honours) International Management  and Business,2021.1,Faculty Of Business,Semester 02,147,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,51450000
+14315,24,0,6,24,0,300000,1,Year 01,BA in Business Communication,2021.1,Faculty Of Business,Semester 02,1,NSBM,2021-11-01,300000,2021,2021-10-18,10,300000
+14316,24,1985000,12,24,5,9915000,29,Year 01,BSc (Honours) Marketing Management,2021.1,Faculty Of Business,Semester 02,34,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,11900000
+14317,24,3130000,14,24,9,9820000,28,Year 01,"BSc (Honours) Events, Tourism and Hospitality Management",2021.1,Faculty Of Business,Semester 02,37,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,12950000
+14318,24,1049630,13,24,3,15750370,45,Year 01,BSc (Honours) Operations and Logistics Management,2021.1,Faculty Of Business,Semester 02,48,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,16800000
+14319,24,2780000,9,24,8,2120000,6,Year 01,Bachelor of Business: Banking and Finance & Financial Risk Management,2021.1,Faculty Of Business,Semester 02,14,Victoria University,2021-11-01,350000,2021,2021-10-18,10,4900000
+14320,24,1380000,63,24,4,1770000,5,Year 01,Bachelor of Business: Management and Innovation & Supply Chain and Logistics Management,2021.1,Faculty Of Business,Semester 02,9,Victoria University,2021-11-01,350000,2021,2021-10-18,10,3150000
+14321,24,13735000,1,24,62,32390000,143,Year 01,BSc in Business Management (Special),2021.1,Faculty Of Business,Semester 02,205,NSBM,2021-11-01,225000,2021,2021-10-18,10,46125000
+14322,24,2090000,11,24,5,11560000,34,Year 01,BSc (Honours) Accounting and Finance,2021.1,Faculty Of Business,Semester 02,39,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,13650000
+14323,24,300000,54,12,1,1500000,5,Year 03,BSc Engineering (Hons) in Electrical & Electronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14324,24,2340000,56,24,6,7810000,23,Year 01,BA (Hons) in Interior Design,2021.1,Faculty Of Engineering,Semester 02,29,Plymouth University,2021-11-01,350000,2021,2021-10-18,10,10150000
+14325,24,915000,20,24,3,3885000,13,Year 01,BSc in Multimedia,2021.1,Faculty Of Engineering,Semester 02,16,NSBM,2021-11-01,300000,2021,2021-10-18,10,4800000
+14326,24,0,53,12,0,1800000,6,Year 03,BSc Engineering (Hons) in Mechatronic Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14327,24,590000,53,24,2,7210000,24,Year 01,BSc Engineering (Hons) in Mechatronic Engineering,2021.1,Faculty Of Engineering,Semester 02,26,NSBM,2021-11-01,300000,2021,2021-10-18,10,7800000
+14328,24,295000,54,24,1,8105000,27,Year 01,BSc Engineering (Hons) in Electrical & Electronic Engineering,2021.1,Faculty Of Engineering,Semester 02,28,NSBM,2021-11-01,300000,2021,2021-10-18,10,8400000
+14329,24,1200000,34,24,4,2100000,7,Year 01,Bachelor of Interior Design,2021.1,Faculty Of Engineering,Semester 02,11,NSBM,2021-11-01,300000,2021,2021-10-18,10,3300000
+14330,24,0,26,12,0,1800000,6,Year 03,BSc Engineering (Hons) in Computer System Engineering,2019.1,Faculty Of Engineering,Semester 02,6,NSBM,2021-11-01,300000,2021,2021-10-18,10,1800000
+14331,24,895000,26,24,3,2705000,9,Year 01,BSc Engineering (Hons) in Computer System Engineering,2021.1,Faculty Of Engineering,Semester 02,12,NSBM,2021-11-01,300000,2021,2021-10-18,10,3600000
+14332,24,0,71,24,0,17775000,79,Year 01,BSc (Hons) in Biomedical Science,2021.1,Faculty of Science,Semester 02,79,NSBM,2021-11-01,225000,2021,2021-10-18,10,17775000
+14333,24,0,72,24,0,1350000,6,Year 01,BSc (Hons) Public Health and Nutrition,2021.1,Faculty of Science,Semester 02,6,NSBM,2021-11-01,225000,2021,2021-10-18,10,1350000
+
