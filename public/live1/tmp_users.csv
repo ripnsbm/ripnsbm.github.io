@@ -1,0 +1,15 @@
+tbl_id,email,mdisplay,password,userType,username,userImage
+1,dgsamaranath@gmail.com,0,12,Admin,gayal,NULL
+2,NULL,1,12,Engineer,nadee,NULL
+3,NULL,1,12,Sales Team,kailashinie,NULL
+4,NULL,1,12,After Sales Team,janitha,NULL
+9,NULL,0,kasun@123,NULL,kasun,NULL
+10,NULL,0,ishara@123,NULL,ishara,NULL
+11,NULL,0,shanika@123,NULL,shanika,NULL
+12,NULL,0,sanuji@123,NULL,sanuji,NULL
+13,NULL,0,jananu@123,NULL,jananu,NULL
+14,NULL,0,deshani@123,NULL,deshani,NULL
+15,NULL,0,b@123,NULL,bernard,NULL
+16,virajhl.nsbm.lk,0,v@123,NULL,virajhl,NULL
+17,NULL,0,m@123,NULL,matheesha,NULL
+
